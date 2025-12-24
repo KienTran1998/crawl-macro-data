@@ -1,0 +1,117 @@
+{
+    "last_updated": "2025-12-04 02:00:54",
+    "source": "Yahoo Finance",
+    "total_records": 10,
+    "data": [
+        {
+            "source": "Yahoo Finance",
+            "data_type": "market_price",
+            "ticker": "CL=F",
+            "date": "2025-12-03",
+            "close": 59.2400016784668,
+            "open": 58.650001525878906,
+            "high": 59.63999938964844,
+            "low": 58.369998931884766,
+            "volume": 152290
+        },
+        {
+            "source": "Yahoo Finance",
+            "data_type": "market_price",
+            "ticker": "HRC=F",
+            "date": "2025-12-03",
+            "close": 913.0,
+            "open": 924.0,
+            "high": 913.0,
+            "low": 900.0,
+            "volume": 90
+        },
+        {
+            "source": "Yahoo Finance",
+            "data_type": "market_price",
+            "ticker": "ZR=F",
+            "date": "2025-12-03",
+            "close": 9.904999732971191,
+            "open": 10.100000381469727,
+            "high": 10.1850004196167,
+            "low": 9.829999923706055,
+            "volume": 408
+        },
+        {
+            "source": "Yahoo Finance",
+            "data_type": "market_price",
+            "ticker": "ZW=F",
+            "date": "2025-12-03",
+            "close": 538.75,
+            "open": 542.25,
+            "high": 542.5,
+            "low": 537.5,
+            "volume": 29710
+        },
+        {
+            "source": "Yahoo Finance",
+            "data_type": "market_price",
+            "ticker": "ZC=F",
+            "date": "2025-12-03",
+            "close": 444.5,
+            "open": 438.0,
+            "high": 450.0,
+            "low": 443.75,
+            "volume": 112843
+        },
+        {
+            "source": "Yahoo Finance",
+            "data_type": "market_price",
+            "ticker": "ZS=F",
+            "date": "2025-12-03",
+            "close": 1122.5,
+            "open": 1125.25,
+            "high": 1130.75,
+            "low": 1118.5,
+            "volume": 81337
+        },
+        {
+            "source": "Yahoo Finance",
+            "data_type": "market_price",
+            "ticker": "SB=F",
+            "date": "2025-12-03",
+            "close": 15.020000457763672,
+            "open": 14.979999542236328,
+            "high": 14.609999656677246,
+            "low": 14.420000076293945,
+            "volume": 23965
+        },
+        {
+            "source": "Yahoo Finance",
+            "data_type": "market_price",
+            "ticker": "KC=F",
+            "date": "2025-12-03",
+            "close": 407.3999938964844,
+            "open": 406.95001220703125,
+            "high": 377.0,
+            "low": 371.75,
+            "volume": 6708
+        },
+        {
+            "source": "Yahoo Finance",
+            "data_type": "market_price",
+            "ticker": "NG=F",
+            "date": "2025-12-03",
+            "close": 5.025000095367432,
+            "open": 4.827000141143799,
+            "high": 5.034999847412109,
+            "low": 4.818999767303467,
+            "volume": 109652
+        },
+        {
+            "source": "Yahoo Finance",
+            "data_type": "market_price",
+            "ticker": "GC=F",
+            "date": "2025-12-03",
+            "close": 4247.10009765625,
+            "open": 4215.7001953125,
+            "high": 4273.2998046875,
+            "low": 4225.10009765625,
+            "volume": 134376
+        }
+    ]
+}

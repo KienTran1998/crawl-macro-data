@@ -1,0 +1,45 @@
+{
+  "source": "FRED (St. Louis Fed)",
+  "generated_at": "2025-12-05",
+  "data": {
+    "CCUSMA02VNM618N": {
+      "error": "Bad Request.  The series does not exist."
+    },
+    "CPALTT01VNM659N": {
+      "error": "Bad Request.  The series does not exist."
+    },
+    "MKTGDPVNA646NWDB": {
+      "metadata": {
+        "title": "Gross Domestic Product for Viet Nam",
+        "units": "Current U.S. Dollars",
+        "frequency": "Annual",
+        "last_updated_by_source": "2025-07-02 13:56:06-05",
+        "notes": "GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy p..."
+      },
+      "latest_value_date": "2024-01-01",
+      "observations_count": 5,
+      "observations": [
+        {
+          "date": "2020-01-01",
+          "value": 346615738537.796
+        },
+        {
+          "date": "2021-01-01",
+          "value": 366474752771.009
+        },
+        {
+          "date": "2022-01-01",
+          "value": 413445230668.578
+        },
+        {
+          "date": "2023-01-01",
+          "value": 433857681378.291
+        },
+        {
+          "date": "2024-01-01",
+          "value": 476388230307.175
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "hits": [
+    {
+      "slug": "migration-flows",
+      "title": "Migration Flows Data Explorer",
+      "subtitle": "Explore global migration data, country-by-country.",
+      "text": "Uganda: Uganda Uganda. Ukraine: Ukraine Ukraine. United Arab Emirates: Emirates Emirates. Kingdom: Kingdom Kingdom. States: States States. Uruguay: Uruguay Uruguay. Uzbekistan: Uzbekistan Uzbekistan. Vanuatu: Vanuatu Vanuatu. Vatican: Vatican Vatican. Venezuela: Venezuela Venezuela. Vietnam: Vietnam Vietnam. Wallis Futuna: Futuna Futuna. Western Sahara: Sahara Sahara. Yemen: Yemen Yemen. Zambia: Zambia Zambia. Zimbabwe: Zimbabwe Zimbabwe. Year Country Migrants have both an origin destination, meaning international migrants can be viewed two directions as (leaving country) or (entering destination country).\\n\\nBased on data source Nations Population Division someone who has been one year longer other than which he she was born.",
+      "objectID": "migration-flows-6",
+      "_highlightResult": {
+        "slug": {
+          "value": "migration-flows",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "title": {
+          "value": "Migration Flows Data Explorer",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "subtitle": {
+          "value": "Explore global migration data, country-by-country.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "text": {
+          "value": "Uganda: Uganda Uganda. Ukraine: Ukraine Ukraine. United Arab Emirates: Emirates Emirates. Kingdom: Kingdom Kingdom. States: States States. Uruguay: Uruguay Uruguay. Uzbekistan: Uzbekistan Uzbekistan. Vanuatu: Vanuatu Vanuatu. Vatican: Vatican Vatican. Venezuela: Venezuela Venezuela. <strong>Vietnam</strong>: <strong>Vietnam</strong> <strong>Vietnam</strong>. Wallis Futuna: Futuna Futuna. Western Sahara: Sahara Sahara. Yemen: Yemen Yemen. Zambia: Zambia Zambia. Zimbabwe: Zimbabwe Zimbabwe. Year Country Migrants have both an origin destination, meaning international migrants can be viewed two directions as (leaving country) or (entering destination country).\\n\\nBased on data source Nations Population Division someone who has been one year longer other than which he she was born.",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "vietnam"
+          ]
+        }
+      }
+    }
+  ],
+  "nbHits": 1,
+  "page": 0,
+  "nbPages": 1,
+  "hitsPerPage": 100,
+  "exhaustiveNbHits": true,
+  "exhaustiveTypo": true,
+  "exhaustive": {
+    "nbHits": true,
+    "typo": true
+  },
+  "query": "Vietnam",
+  "params": "query=Vietnam&hitsPerPage=100",
+  "processingTimeMS": 1,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 25
+    },
+    "total": 1
+  },
+  "serverTimeMS": 1
+}

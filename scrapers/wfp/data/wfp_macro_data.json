@@ -1,0 +1,110 @@
+{
+    "last_updated": "2025-12-04 00:34:28",
+    "total_datasets": 2,
+    "indicators": [
+        {
+            "dataset": "WFP Global Market Monitor",
+            "extracted_at": "2025-12-04 00:33:22",
+            "indicators": {
+                "price_pricetype": "Retail   ",
+                "price_pricetrendquarter": "High    ",
+                "price_pricetrendmonth": "Moderate",
+                "location_countrycode": "130",
+                "location_countryname": "Jordan",
+                "period": "2021-03-01"
+            },
+            "metadata": {
+                "total_rows": 1000,
+                "columns": [
+                    "Date",
+                    "MonthlyVersion",
+                    "FrequencyName",
+                    "CountryCode",
+                    "CountryName",
+                    "Admin1",
+                    "DataLevel",
+                    "MainStapleFood",
+                    "PriceType",
+                    "CaloricContribution",
+                    "QuarterlyChangeNSA",
+                    "MonthlyChangeNSA",
+                    "QuarterlyChangeSA",
+                    "MonthlyChangeSA",
+                    "YoYChangeQuarter",
+                    "YoYChangeMonth",
+                    "PriceTrendQuarter",
+                    "PriceTrendMonth",
+                    "QuarterlyCostShare",
+                    "TotImpactQuarterlyChange",
+                    "TotImpactQuarterlyCode",
+                    "TotImpactMonthlyChange",
+                    "TotImpactMonthlyCode",
+                    "LastModifyDate"
+                ],
+                "price_columns": [
+                    "PriceType",
+                    "PriceTrendQuarter",
+                    "PriceTrendMonth",
+                    "QuarterlyCostShare"
+                ],
+                "inflation_columns": [],
+                "exchange_rate_columns": []
+            },
+            "resource_url": "https://data.humdata.org/dataset/67259d7e-1554-4ffd-be8d-97244577546a/resource/2caea41d-2079-44a5-a52b-8bb62a11010f/download/global-market-monitor_subnational.csv",
+            "resource_name": "global-market-monitor_subnational.csv",
+            "resource_format": "CSV"
+        },
+        {
+            "dataset": "WFP Global Market Monitor",
+            "extracted_at": "2025-12-04 00:34:18",
+            "indicators": {
+                "price_pricetype": "Retail   ",
+                "price_pricetrendquarter": "High    ",
+                "price_pricetrendmonth": "Moderate",
+                "location_countrycode": "130",
+                "location_countryname": "Jordan",
+                "period": "2021-03-01"
+            },
+            "metadata": {
+                "total_rows": 1000,
+                "columns": [
+                    "Date",
+                    "MonthlyVersion",
+                    "FrequencyName",
+                    "CountryCode",
+                    "CountryName",
+                    "Admin1",
+                    "DataLevel",
+                    "MainStapleFood",
+                    "PriceType",
+                    "CaloricContribution",
+                    "QuarterlyChangeNSA",
+                    "MonthlyChangeNSA",
+                    "QuarterlyChangeSA",
+                    "MonthlyChangeSA",
+                    "YoYChangeQuarter",
+                    "YoYChangeMonth",
+                    "PriceTrendQuarter",
+                    "PriceTrendMonth",
+                    "QuarterlyCostShare",
+                    "TotImpactQuarterlyChange",
+                    "TotImpactQuarterlyCode",
+                    "TotImpactMonthlyChange",
+                    "TotImpactMonthlyCode",
+                    "LastModifyDate"
+                ],
+                "price_columns": [
+                    "PriceType",
+                    "PriceTrendQuarter",
+                    "PriceTrendMonth",
+                    "QuarterlyCostShare"
+                ],
+                "inflation_columns": [],
+                "exchange_rate_columns": []
+            },
+            "resource_url": "https://data.humdata.org/dataset/67259d7e-1554-4ffd-be8d-97244577546a/resource/2caea41d-2079-44a5-a52b-8bb62a11010f/download/global-market-monitor_subnational.csv",
+            "resource_name": "global-market-monitor_subnational.csv",
+            "resource_format": "CSV"
+        }
+    ]
+}

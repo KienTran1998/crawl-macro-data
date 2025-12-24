@@ -1,0 +1,638 @@
+{
+  "source": "Trading Economics",
+  "url": "https://tradingeconomics.com/vietnam/indicators",
+  "generated_at": "2025-12-08",
+  "total_indicators": 70,
+  "data": {
+    "currency": {
+      "name": "Currency",
+      "category": "overview",
+      "last": "26360",
+      "previous": "26360",
+      "unit": "",
+      "date": "Dec/25",
+      "crawled_at": "2025-12-08T22:21:46.422943"
+    },
+    "stock_market": {
+      "name": "Stock Market",
+      "category": "overview",
+      "last": "1754",
+      "previous": "1741",
+      "unit": "points",
+      "date": "Dec/25",
+      "crawled_at": "2025-12-08T22:21:46.422980"
+    },
+    "gdp_annual_growth_rate": {
+      "name": "GDP Annual Growth Rate",
+      "category": "gdp",
+      "last": "8.23",
+      "previous": "8.19",
+      "unit": "percent",
+      "date": "Sep/25",
+      "crawled_at": "2025-12-08T22:21:46.423394"
+    },
+    "unemployment_rate": {
+      "name": "Unemployment Rate",
+      "category": "labour",
+      "last": "2.22",
+      "previous": "2.24",
+      "unit": "percent",
+      "date": "Sep/25",
+      "crawled_at": "2025-12-08T22:21:46.423745"
+    },
+    "inflation_rate": {
+      "name": "Inflation Rate",
+      "category": "prices",
+      "last": "3.58",
+      "previous": "3.25",
+      "unit": "percent",
+      "date": "Nov/25",
+      "crawled_at": "2025-12-08T22:21:46.424124"
+    },
+    "interest_rate": {
+      "name": "Interest Rate",
+      "category": "money",
+      "last": "4.5",
+      "previous": "4.5",
+      "unit": "percent",
+      "date": "Nov/25",
+      "crawled_at": "2025-12-08T22:21:46.424420"
+    },
+    "balance_of_trade": {
+      "name": "Balance of Trade",
+      "category": "trade",
+      "last": "1.09",
+      "previous": "2.6",
+      "unit": "USD Billion",
+      "date": "Nov/25",
+      "crawled_at": "2025-12-08T22:21:46.424629"
+    },
+    "current_account": {
+      "name": "Current Account",
+      "category": "trade",
+      "last": "8723",
+      "previous": "3959",
+      "unit": "USD Million",
+      "date": "Jun/25",
+      "crawled_at": "2025-12-08T22:21:46.424646"
+    },
+    "current_account_to_gdp": {
+      "name": "Current Account to GDP",
+      "category": "trade",
+      "last": "6.1",
+      "previous": "5.9",
+      "unit": "percent of GDP",
+      "date": "Dec/24",
+      "crawled_at": "2025-12-08T22:21:46.424663"
+    },
+    "government_debt_to_gdp": {
+      "name": "Government Debt to GDP",
+      "category": "government",
+      "last": "32.9",
+      "previous": "34.4",
+      "unit": "percent of GDP",
+      "date": "Dec/24",
+      "crawled_at": "2025-12-08T22:21:46.424960"
+    },
+    "manufacturing_pmi": {
+      "name": "Manufacturing PMI",
+      "category": "business",
+      "last": "53.8",
+      "previous": "54.5",
+      "unit": "points",
+      "date": "Nov/25",
+      "crawled_at": "2025-12-08T22:21:46.425288"
+    },
+    "corporate_tax_rate": {
+      "name": "Corporate Tax Rate",
+      "category": "government",
+      "last": "20",
+      "previous": "20",
+      "unit": "percent",
+      "date": "Dec/25",
+      "crawled_at": "2025-12-08T22:21:46.425115"
+    },
+    "personal_income_tax_rate": {
+      "name": "Personal Income Tax Rate",
+      "category": "government",
+      "last": "35",
+      "previous": "35",
+      "unit": "percent",
+      "date": "Dec/25",
+      "crawled_at": "2025-12-08T22:21:46.425131"
+    },
+    "gdp": {
+      "name": "GDP",
+      "category": "gdp",
+      "last": "476",
+      "previous": "434",
+      "unit": "USD Billion",
+      "date": "Dec/24",
+      "crawled_at": "2025-12-08T22:21:46.423411"
+    },
+    "gdp_constant_prices": {
+      "name": "GDP Constant Prices",
+      "category": "gdp",
+      "last": "1696892",
+      "previous": "1646867",
+      "unit": "VND Billion",
+      "date": "Sep/25",
+      "crawled_at": "2025-12-08T22:21:46.423428"
+    },
+    "gdp_per_capita": {
+      "name": "GDP per Capita",
+      "category": "gdp",
+      "last": "4018",
+      "previous": "3775",
+      "unit": "USD",
+      "date": "Dec/24",
+      "crawled_at": "2025-12-08T22:21:46.423474"
+    },
+    "gdp_per_capita_ppp": {
+      "name": "GDP per Capita PPP",
+      "category": "gdp",
+      "last": "14415",
+      "previous": "13546",
+      "unit": "USD",
+      "date": "Dec/24",
+      "crawled_at": "2025-12-08T22:21:46.423490"
+    },
+    "full_year_gdp_growth": {
+      "name": "Full Year GDP Growth",
+      "category": "gdp",
+      "last": "7.09",
+      "previous": "5.05",
+      "unit": "percent",
+      "date": "Dec/24",
+      "crawled_at": "2025-12-08T22:21:46.423507"
+    },
+    "gdp_from_agriculture": {
+      "name": "GDP from Agriculture",
+      "category": "gdp",
+      "last": "167814",
+      "previous": "157082",
+      "unit": "VND Billion",
+      "date": "Sep/25",
+      "crawled_at": "2025-12-08T22:21:46.423524"
+    },
+    "gdp_from_construction": {
+      "name": "GDP from Construction",
+      "category": "gdp",
+      "last": "117475",
+      "previous": "107574",
+      "unit": "VND Billion",
+      "date": "Sep/25",
+      "crawled_at": "2025-12-08T22:21:46.423540"
+    },
+    "gdp_from_manufacturing": {
+      "name": "GDP from Manufacturing",
+      "category": "gdp",
+      "last": "419519",
+      "previous": "387403",
+      "unit": "VND Billion",
+      "date": "Sep/25",
+      "crawled_at": "2025-12-08T22:21:46.423556"
+    },
+    "gdp_from_mining": {
+      "name": "GDP from Mining",
+      "category": "gdp",
+      "last": "34669",
+      "previous": "36868",
+      "unit": "VND Billion",
+      "date": "Sep/25",
+      "crawled_at": "2025-12-08T22:21:46.423572"
+    },
+    "gdp_from_public_administration": {
+      "name": "GDP from Public Administration",
+      "category": "gdp",
+      "last": "26797",
+      "previous": "30950",
+      "unit": "VND Billion",
+      "date": "Sep/25",
+      "crawled_at": "2025-12-08T22:21:46.423589"
+    },
+    "gdp_from_services": {
+      "name": "GDP from Services",
+      "category": "gdp",
+      "last": "738714",
+      "previous": "746858",
+      "unit": "VND Billion",
+      "date": "Sep/25",
+      "crawled_at": "2025-12-08T22:21:46.423608"
+    },
+    "gdp_from_transport": {
+      "name": "GDP from Transport",
+      "category": "gdp",
+      "last": "96915",
+      "previous": "112144",
+      "unit": "VND Billion",
+      "date": "Sep/25",
+      "crawled_at": "2025-12-08T22:21:46.423624"
+    },
+    "gdp_from_utilities": {
+      "name": "GDP from Utilities",
+      "category": "gdp",
+      "last": "62439",
+      "previous": "57903",
+      "unit": "VND Billion",
+      "date": "Sep/25",
+      "crawled_at": "2025-12-08T22:21:46.423640"
+    },
+    "employed_persons": {
+      "name": "Employed Persons",
+      "category": "labour",
+      "last": "52.3",
+      "previous": "52",
+      "unit": "Million",
+      "date": "Sep/25",
+      "crawled_at": "2025-12-08T22:21:46.423764"
+    },
+    "unemployed_persons": {
+      "name": "Unemployed Persons",
+      "category": "labour",
+      "last": "1",
+      "previous": "1.06",
+      "unit": "Million",
+      "date": "Sep/25",
+      "crawled_at": "2025-12-08T22:21:46.423780"
+    },
+    "minimum_wages": {
+      "name": "Minimum Wages",
+      "category": "labour",
+      "last": "4960",
+      "previous": "4960",
+      "unit": "VND Thousand/Month",
+      "date": "Jan/25",
+      "crawled_at": "2025-12-08T22:21:46.423796"
+    },
+    "population": {
+      "name": "Population",
+      "category": "labour",
+      "last": "101",
+      "previous": "100",
+      "unit": "Million",
+      "date": "Dec/24",
+      "crawled_at": "2025-12-08T22:21:46.423811"
+    },
+    "labor_force_participation_rate": {
+      "name": "Labor Force Participation Rate",
+      "category": "labour",
+      "last": "68.6",
+      "previous": "68.2",
+      "unit": "percent",
+      "date": "Sep/25",
+      "crawled_at": "2025-12-08T22:21:46.423829"
+    },
+    "retirement_age_men": {
+      "name": "Retirement Age Men",
+      "category": "labour",
+      "last": "61.25",
+      "previous": "61",
+      "unit": "Years",
+      "date": "Dec/25",
+      "crawled_at": "2025-12-08T22:21:46.423859"
+    },
+    "retirement_age_women": {
+      "name": "Retirement Age Women",
+      "category": "labour",
+      "last": "56.67",
+      "previous": "56.33",
+      "unit": "Years",
+      "date": "Dec/25",
+      "crawled_at": "2025-12-08T22:21:46.423881"
+    },
+    "wages": {
+      "name": "Wages",
+      "category": "labour",
+      "last": "8374",
+      "previous": "8250",
+      "unit": "VND Thousand/Month",
+      "date": "Sep/25",
+      "crawled_at": "2025-12-08T22:21:46.423897"
+    },
+    "youth_unemployment_rate": {
+      "name": "Youth Unemployment Rate",
+      "category": "labour",
+      "last": "9.03",
+      "previous": "8.19",
+      "unit": "percent",
+      "date": "Sep/25",
+      "crawled_at": "2025-12-08T22:21:46.423914"
+    },
+    "consumer_price_index_cpi": {
+      "name": "Consumer Price Index CPI",
+      "category": "prices",
+      "last": "120",
+      "previous": "120",
+      "unit": "points",
+      "date": "Oct/25",
+      "crawled_at": "2025-12-08T22:21:46.424149"
+    },
+    "core_inflation_rate": {
+      "name": "Core Inflation Rate",
+      "category": "prices",
+      "last": "3.28",
+      "previous": "3.3",
+      "unit": "percent",
+      "date": "Nov/25",
+      "crawled_at": "2025-12-08T22:21:46.424168"
+    },
+    "export_prices": {
+      "name": "Export Prices",
+      "category": "prices",
+      "last": "128",
+      "previous": "127",
+      "unit": "points",
+      "date": "Dec/24",
+      "crawled_at": "2025-12-08T22:21:46.424204"
+    },
+    "import_prices": {
+      "name": "Import Prices",
+      "category": "prices",
+      "last": "116",
+      "previous": "118",
+      "unit": "points",
+      "date": "Dec/24",
+      "crawled_at": "2025-12-08T22:21:46.424223"
+    },
+    "core_inflation_rate_mom": {
+      "name": "Core Inflation Rate MoM",
+      "category": "prices",
+      "last": "0.23",
+      "previous": "0.35",
+      "unit": "percent",
+      "date": "Nov/25",
+      "crawled_at": "2025-12-08T22:21:46.424240"
+    },
+    "producer_price_inflation_mom": {
+      "name": "Producer Price Inflation MoM",
+      "category": "prices",
+      "last": "-1.25",
+      "previous": "-0.65",
+      "unit": "percent",
+      "date": "Sep/25",
+      "crawled_at": "2025-12-08T22:21:46.424258"
+    },
+    "cpi_transportation": {
+      "name": "CPI Transportation",
+      "category": "prices",
+      "last": "107",
+      "previous": "108",
+      "unit": "points",
+      "date": "Oct/25",
+      "crawled_at": "2025-12-08T22:21:46.424275"
+    },
+    "food_inflation": {
+      "name": "Food Inflation",
+      "category": "prices",
+      "last": "3.29",
+      "previous": "2.09",
+      "unit": "percent",
+      "date": "Nov/25",
+      "crawled_at": "2025-12-08T22:21:46.424292"
+    },
+    "inflation_rate_mom": {
+      "name": "Inflation Rate MoM",
+      "category": "prices",
+      "last": "0.45",
+      "previous": "0.2",
+      "unit": "percent",
+      "date": "Nov/25",
+      "crawled_at": "2025-12-08T22:21:46.424309"
+    },
+    "producer_prices": {
+      "name": "Producer Prices",
+      "category": "prices",
+      "last": "100",
+      "previous": "102",
+      "unit": "points",
+      "date": "Sep/25",
+      "crawled_at": "2025-12-08T22:21:46.424325"
+    },
+    "interbank_rate": {
+      "name": "Interbank Rate",
+      "category": "money",
+      "last": "7.28",
+      "previous": "7.11",
+      "unit": "percent",
+      "date": "Dec/25",
+      "crawled_at": "2025-12-08T22:21:46.424437"
+    },
+    "foreign_exchange_reserves": {
+      "name": "Foreign Exchange Reserves",
+      "category": "money",
+      "last": "80280",
+      "previous": "81099",
+      "unit": "USD Million",
+      "date": "Jul/25",
+      "crawled_at": "2025-12-08T22:21:46.424495"
+    },
+    "exports": {
+      "name": "Exports",
+      "category": "trade",
+      "last": "39.07",
+      "previous": "42.05",
+      "unit": "USD Billion",
+      "date": "Nov/25",
+      "crawled_at": "2025-12-08T22:21:46.424679"
+    },
+    "imports": {
+      "name": "Imports",
+      "category": "trade",
+      "last": "37.98",
+      "previous": "39.45",
+      "unit": "USD Billion",
+      "date": "Nov/25",
+      "crawled_at": "2025-12-08T22:21:46.424694"
+    },
+    "external_debt": {
+      "name": "External Debt",
+      "category": "trade",
+      "last": "132511",
+      "previous": "140417",
+      "unit": "USD Million",
+      "date": "Dec/24",
+      "crawled_at": "2025-12-08T22:21:46.424713"
+    },
+    "terms_of_trade": {
+      "name": "Terms of Trade",
+      "category": "trade",
+      "last": "103",
+      "previous": "103",
+      "unit": "points",
+      "date": "Dec/24",
+      "crawled_at": "2025-12-08T22:21:46.424729"
+    },
+    "foreign_direct_investment": {
+      "name": "Foreign Direct Investment",
+      "category": "trade",
+      "last": "23.6",
+      "previous": "21.3",
+      "unit": "USD Billion",
+      "date": "Nov/25",
+      "crawled_at": "2025-12-08T22:21:46.424746"
+    },
+    "capital_flows": {
+      "name": "Capital Flows",
+      "category": "trade",
+      "last": "-4801",
+      "previous": "-3514",
+      "unit": "USD Million",
+      "date": "Jun/25",
+      "crawled_at": "2025-12-08T22:21:46.424763"
+    },
+    "crude_oil_production": {
+      "name": "Crude Oil Production",
+      "category": "trade",
+      "last": "168",
+      "previous": "162",
+      "unit": "BBL/D/1K",
+      "date": "Jul/25",
+      "crawled_at": "2025-12-08T22:21:46.424779"
+    },
+    "terrorism_index": {
+      "name": "Terrorism Index",
+      "category": "trade",
+      "last": "0",
+      "previous": "0",
+      "unit": "Points",
+      "date": "Dec/24",
+      "crawled_at": "2025-12-08T22:21:46.424798"
+    },
+    "tourist_arrivals": {
+      "name": "Tourist Arrivals",
+      "category": "trade",
+      "last": "1978",
+      "previous": "1733",
+      "unit": "Thousand",
+      "date": "Nov/25",
+      "crawled_at": "2025-12-08T22:21:46.424814"
+    },
+    "corruption_index": {
+      "name": "Corruption Index",
+      "category": "government",
+      "last": "40",
+      "previous": "41",
+      "unit": "Points",
+      "date": "Dec/24",
+      "crawled_at": "2025-12-08T22:21:46.425051"
+    },
+    "corruption_rank": {
+      "name": "Corruption Rank",
+      "category": "government",
+      "last": "88",
+      "previous": "83",
+      "unit": "",
+      "date": "Dec/24",
+      "crawled_at": "2025-12-08T22:21:46.425068"
+    },
+    "credit_rating": {
+      "name": "Credit Rating",
+      "category": "government",
+      "last": "46",
+      "previous": "",
+      "unit": "",
+      "date": "Dec/25",
+      "crawled_at": "2025-12-08T22:21:46.425082"
+    },
+    "sales_tax_rate": {
+      "name": "Sales Tax Rate",
+      "category": "government",
+      "last": "10",
+      "previous": "10",
+      "unit": "percent",
+      "date": "Dec/25",
+      "crawled_at": "2025-12-08T22:21:46.425147"
+    },
+    "social_security_rate": {
+      "name": "Social Security Rate",
+      "category": "government",
+      "last": "32",
+      "previous": "32",
+      "unit": "percent",
+      "date": "Dec/25",
+      "crawled_at": "2025-12-08T22:21:46.425167"
+    },
+    "social_security_rate_for_companies": {
+      "name": "Social Security Rate For Companies",
+      "category": "government",
+      "last": "21.5",
+      "previous": "21.5",
+      "unit": "percent",
+      "date": "Dec/25",
+      "crawled_at": "2025-12-08T22:21:46.425185"
+    },
+    "social_security_rate_for_employees": {
+      "name": "Social Security Rate For Employees",
+      "category": "government",
+      "last": "10.5",
+      "previous": "10.5",
+      "unit": "percent",
+      "date": "Dec/25",
+      "crawled_at": "2025-12-08T22:21:46.425204"
+    },
+    "industrial_production": {
+      "name": "Industrial Production",
+      "category": "business",
+      "last": "10.8",
+      "previous": "10.4",
+      "unit": "percent",
+      "date": "Nov/25",
+      "crawled_at": "2025-12-08T22:21:46.425305"
+    },
+    "manufacturing_production": {
+      "name": "Manufacturing Production",
+      "category": "business",
+      "last": "11.8",
+      "previous": "11",
+      "unit": "percent",
+      "date": "Nov/25",
+      "crawled_at": "2025-12-08T22:21:46.425321"
+    },
+    "car_registrations": {
+      "name": "Car Registrations",
+      "category": "business",
+      "last": "31844",
+      "previous": "26291",
+      "unit": "Units",
+      "date": "Oct/25",
+      "crawled_at": "2025-12-08T22:21:46.425352"
+    },
+    "electricity_production": {
+      "name": "Electricity Production",
+      "category": "business",
+      "last": "28700",
+      "previous": "28200",
+      "unit": "Gigawatt-hour",
+      "date": "Oct/25",
+      "crawled_at": "2025-12-08T22:21:46.425368"
+    },
+    "mining_production": {
+      "name": "Mining Production",
+      "category": "business",
+      "last": "3.1",
+      "previous": "16.8",
+      "unit": "percent",
+      "date": "Oct/25",
+      "crawled_at": "2025-12-08T22:21:46.425384"
+    },
+    "retail_sales_yoy": {
+      "name": "Retail Sales YoY",
+      "category": "consumer",
+      "last": "7.1",
+      "previous": "7.2",
+      "unit": "percent",
+      "date": "Nov/25",
+      "crawled_at": "2025-12-08T22:21:46.425445"
+    },
+    "gasoline_prices": {
+      "name": "Gasoline Prices",
+      "category": "consumer",
+      "last": "0.73",
+      "previous": "0.75",
+      "unit": "USD/Liter",
+      "date": "Nov/25",
+      "crawled_at": "2025-12-08T22:21:46.425476"
+    }
+  }
+}

@@ -1,0 +1,3231 @@
+{
+  "source": "FRED (Category 32841 - Vietnam)",
+  "scraped_at": "2025-12-05 00:09:17",
+  "total_indicators": 248,
+  "indicators": [
+    {
+      "id": "AKVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Alaska",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 26481744.0
+      }
+    },
+    {
+      "id": "AKVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Alaska",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 20.0
+      }
+    },
+    {
+      "id": "ALVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Alabama",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 44947746.0
+      }
+    },
+    {
+      "id": "ALVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Alabama",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 109.0
+      }
+    },
+    {
+      "id": "ARVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Arkansas",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 103866789.0
+      }
+    },
+    {
+      "id": "ARVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Arkansas",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 38.0
+      }
+    },
+    {
+      "id": "AZVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Arizona",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 126776131.0
+      }
+    },
+    {
+      "id": "AZVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Arizona",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 147.0
+      }
+    },
+    {
+      "id": "BARTERICMP25UPZSVNM",
+      "metadata": {
+        "title": "Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Viet Nam",
+        "units": "Percent",
+        "frequency": "5 Year",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2010-01-01",
+        "value": 6.84
+      }
+    },
+    {
+      "id": "CAVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from California",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 2078992579.0
+      }
+    },
+    {
+      "id": "CAVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from California",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 2007.0
+      }
+    },
+    {
+      "id": "COVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Colorado",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 46257183.0
+      }
+    },
+    {
+      "id": "COVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Colorado",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 136.0
+      }
+    },
+    {
+      "id": "CTVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Connecticut",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 83566011.0
+      }
+    },
+    {
+      "id": "CTVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Connecticut",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 143.0
+      }
+    },
+    {
+      "id": "DCVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from District of Columbia",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 99454.0
+      }
+    },
+    {
+      "id": "DCVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from District of Columbia",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 3.0
+      }
+    },
+    {
+      "id": "DDAI02VNA643NWDB",
+      "metadata": {
+        "title": "Number of Bank Branches for Viet Nam",
+        "units": "Number per 100,000 adults",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2019-01-01",
+        "value": 3.982743
+      }
+    },
+    {
+      "id": "DDAI03VNA156NWDB",
+      "metadata": {
+        "title": "Firms with a Bank Loan or Line of Credit to Total Firms for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-01-01",
+        "value": 40.8
+      }
+    },
+    {
+      "id": "DDAI04VNA156NWDB",
+      "metadata": {
+        "title": "Small Firms with a Bank Loan or Line of Credit to Total Small Firms for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-01-01",
+        "value": 28.8
+      }
+    },
+    {
+      "id": "DDAI05VNA156NWDB",
+      "metadata": {
+        "title": "People 15 Years and Over with Account at a Formal Financial Institution for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2017-01-01",
+        "value": 30.02354
+      }
+    },
+    {
+      "id": "DDAI06VNA156NWDB",
+      "metadata": {
+        "title": "People 15 Years and Over Saving at a Financial Institution in the Past Year for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2017-01-01",
+        "value": 14.482660000000001
+      }
+    },
+    {
+      "id": "DDAI07VNA156NWDB",
+      "metadata": {
+        "title": "People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2017-01-01",
+        "value": 21.7157
+      }
+    },
+    {
+      "id": "DDDI01VNA156NWDB",
+      "metadata": {
+        "title": "Private Credit by Deposit Money Banks to GDP for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 125.0207
+      }
+    },
+    {
+      "id": "DDDI02VNA156NWDB",
+      "metadata": {
+        "title": "Deposit Money Bank Assets to GDP for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 136.1844
+      }
+    },
+    {
+      "id": "DDDI04VNA156NWDB",
+      "metadata": {
+        "title": "Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 99.86218000000001
+      }
+    },
+    {
+      "id": "DDDI05VNA156NWDB",
+      "metadata": {
+        "title": "Liquid Liabilities to GDP for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 147.6436
+      }
+    },
+    {
+      "id": "DDDI06VNA156NWDB",
+      "metadata": {
+        "title": "Central Bank Assets to GDP for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 0.1879431
+      }
+    },
+    {
+      "id": "DDDI07VNA156NWDB",
+      "metadata": {
+        "title": "Mutual Fund Assets to GDP for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2007-01-01",
+        "value": 0.30599132
+      }
+    },
+    {
+      "id": "DDDI08VNA156NWDB",
+      "metadata": {
+        "title": "Financial System Deposits to GDP for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 23.33721
+      }
+    },
+    {
+      "id": "DDDI09VNA156NWDB",
+      "metadata": {
+        "title": "Life Insurance Premium Volume to GDP for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2019-01-01",
+        "value": 1.7654279999999998
+      }
+    },
+    {
+      "id": "DDDI10VNA156NWDB",
+      "metadata": {
+        "title": "Non-Life Insurance Premium Volume to GDP for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2019-01-01",
+        "value": 0.5912006999999999
+      }
+    },
+    {
+      "id": "DDDI11VNA156NWDB",
+      "metadata": {
+        "title": "Insurance Company Assets to GDP for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2019-01-01",
+        "value": 7.6630068
+      }
+    },
+    {
+      "id": "DDDI12VNA156NWDB",
+      "metadata": {
+        "title": "Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 125.0207
+      }
+    },
+    {
+      "id": "DDDM01VNA156NWDB",
+      "metadata": {
+        "title": "Stock Market Capitalization to GDP for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2020-01-01",
+        "value": 54.1916
+      }
+    },
+    {
+      "id": "DDDM02VNA156NWDB",
+      "metadata": {
+        "title": "Stock Market Total Value Traded to GDP for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2020-01-01",
+        "value": 16.5652
+      }
+    },
+    {
+      "id": "DDDM05VNA156NWDB",
+      "metadata": {
+        "title": "Outstanding International Private Debt Securities to GDP for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2020-01-01",
+        "value": 0.5351115
+      }
+    },
+    {
+      "id": "DDDM06VNA156NWDB",
+      "metadata": {
+        "title": "Outstanding International Public Debt Securities to GDP for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2020-01-01",
+        "value": 0.46209140000000004
+      }
+    },
+    {
+      "id": "DDDM07VNA156NWDB",
+      "metadata": {
+        "title": "Outstanding Total International Debt Securities to GDP for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2020-01-01",
+        "value": 0.9972029
+      }
+    },
+    {
+      "id": "DDEI01VNA156NWDB",
+      "metadata": {
+        "title": "Bank's Net Interest Margin for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 3.348294
+      }
+    },
+    {
+      "id": "DDEI02VNA156NWDB",
+      "metadata": {
+        "title": "Bank Lending Deposit Spread for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2020-01-01",
+        "value": 3.5272919999999996
+      }
+    },
+    {
+      "id": "DDEI03VNA156NWDB",
+      "metadata": {
+        "title": "Bank's Non-Interest Income to Total Income for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 29.11761
+      }
+    },
+    {
+      "id": "DDEI04VNA156NWDB",
+      "metadata": {
+        "title": "Bank's Overhead Costs to Total Assets for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 1.462879
+      }
+    },
+    {
+      "id": "DDEI05VNA156NWDB",
+      "metadata": {
+        "title": "Bank's Return on Assets for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 1.460913
+      }
+    },
+    {
+      "id": "DDEI06VNA156NWDB",
+      "metadata": {
+        "title": "Bank's Return on Equity for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 19.3225
+      }
+    },
+    {
+      "id": "DDEI07VNA156NWDB",
+      "metadata": {
+        "title": "Bank's Cost to Income Ratio for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 34.74393
+      }
+    },
+    {
+      "id": "DDEI08VNA156NWDB",
+      "metadata": {
+        "title": "Credit to Government and State-Owned Enterprises to GDP for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2020-01-01",
+        "value": 15.05365
+      }
+    },
+    {
+      "id": "DDEM01VNA156NWDB",
+      "metadata": {
+        "title": "Stock Market Turnover Ratio (Value Traded/Capitalization) for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2020-01-01",
+        "value": 30.567859999999996
+      }
+    },
+    {
+      "id": "DDOE01VNA086NWDB",
+      "metadata": {
+        "title": "Consumer Price Index for Viet Nam",
+        "units": "Index 2010=100",
+        "frequency": "Annual, End of Year",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2017-01-01",
+        "value": 157.984
+      }
+    },
+    {
+      "id": "DDOE02VNA086NWDB",
+      "metadata": {
+        "title": "Consumer Price Index for Viet Nam",
+        "units": "Index 2010=100",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2017-01-01",
+        "value": 155.799
+      }
+    },
+    {
+      "id": "DDOI01VNA156NWDB",
+      "metadata": {
+        "title": "Bank Concentration for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 37.8501
+      }
+    },
+    {
+      "id": "DDOI02VNA156NWDB",
+      "metadata": {
+        "title": "Bank Deposits to GDP for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 23.33721
+      }
+    },
+    {
+      "id": "DDOI03VNA066NWDB",
+      "metadata": {
+        "title": "H-Statistic in Banking Market for Viet Nam",
+        "units": "Index",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-01-01",
+        "value": null
+      }
+    },
+    {
+      "id": "DDOI04VNA066NWDB",
+      "metadata": {
+        "title": "Lerner Index in Banking Market for Viet Nam",
+        "units": "Index",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-01-01",
+        "value": null
+      }
+    },
+    {
+      "id": "DDOI05VNA156NWDB",
+      "metadata": {
+        "title": "Boone Indicator in Banking Market for Viet Nam",
+        "units": "Index",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-01-01",
+        "value": null
+      }
+    },
+    {
+      "id": "DDOI06VNA156NWDB",
+      "metadata": {
+        "title": "5-Bank Asset Concentration for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 48.33713
+      }
+    },
+    {
+      "id": "DDOI07VNA648NWDB",
+      "metadata": {
+        "title": "Liquid Liabilities (Broad Money) for Viet Nam",
+        "units": "Millions of 2000 Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 421179.7
+      }
+    },
+    {
+      "id": "DDOI08VNA156NWDB",
+      "metadata": {
+        "title": "Loans from Non-Resident Banks, Net, to GDP for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 0.04136359999999999
+      }
+    },
+    {
+      "id": "DDOI09VNA156NWDB",
+      "metadata": {
+        "title": "Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 1.033815
+      }
+    },
+    {
+      "id": "DDOI10VNA156NWDB",
+      "metadata": {
+        "title": "External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 28.115509999999997
+      }
+    },
+    {
+      "id": "DDOI11VNA156NWDB",
+      "metadata": {
+        "title": "Remittance Inflows to GDP for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2020-01-01",
+        "value": 5.01103
+      }
+    },
+    {
+      "id": "DDOI12VNA156NWDB",
+      "metadata": {
+        "title": "Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2020-01-01",
+        "value": 27.11151
+      }
+    },
+    {
+      "id": "DDOI13VNA156NWDB",
+      "metadata": {
+        "title": "Percentage of Foreign Banks Among Total Banks for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2013-01-01",
+        "value": 23.0
+      }
+    },
+    {
+      "id": "DDOI14VNA156NWDB",
+      "metadata": {
+        "title": "Percentage of Foreign Bank Assets Among Total Bank Assets for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2013-01-01",
+        "value": 5.0
+      }
+    },
+    {
+      "id": "DDOM01VNA644NWDB",
+      "metadata": {
+        "title": "Number of Listed Companies for Viet Nam",
+        "units": "Number of Listed Companies per Million People",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2020-01-01",
+        "value": 7.653697
+      }
+    },
+    {
+      "id": "DDSI01VNA645NWDB",
+      "metadata": {
+        "title": "Bank Z-Score for Viet Nam",
+        "units": "Z-score",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 14.664879999999998
+      }
+    },
+    {
+      "id": "DDSI04VNA156NWDB",
+      "metadata": {
+        "title": "Bank Credit to Bank Deposits for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 535.7143
+      }
+    },
+    {
+      "id": "DDSI06VNA156NWDB",
+      "metadata": {
+        "title": "Liquid Assets to Deposits and Short Term Funding for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 21.10425
+      }
+    },
+    {
+      "id": "DDSM01VNA066NWDB",
+      "metadata": {
+        "title": "Volatility of Stock Price Index for Viet Nam",
+        "units": "Index",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2021-01-01",
+        "value": 22.49843
+      }
+    },
+    {
+      "id": "DEVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Delaware",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 45955597.0
+      }
+    },
+    {
+      "id": "DEVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Delaware",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 39.0
+      }
+    },
+    {
+      "id": "EXP5520",
+      "metadata": {
+        "title": "U.S. Exports of Goods by F.A.S. Basis to Vietnam",
+        "units": "Millions of Dollars",
+        "frequency": "Monthly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2025-08-01",
+        "value": 1412.577395
+      }
+    },
+    {
+      "id": "FLVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Florida",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 380318563.0
+      }
+    },
+    {
+      "id": "FLVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Florida",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 461.0
+      }
+    },
+    {
+      "id": "FPCPITOTLZGVNM",
+      "metadata": {
+        "title": "Inflation, consumer prices for Viet Nam",
+        "units": "Percent",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2024-01-01",
+        "value": 3.62109273885843
+      }
+    },
+    {
+      "id": "GAVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Georgia",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 360496091.0
+      }
+    },
+    {
+      "id": "GAVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Georgia",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 417.0
+      }
+    },
+    {
+      "id": "HIVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Hawaii",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 8963377.0
+      }
+    },
+    {
+      "id": "HIVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Hawaii",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 12.0
+      }
+    },
+    {
+      "id": "IAVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Iowa",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 41344037.0
+      }
+    },
+    {
+      "id": "IAVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Iowa",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 98.0
+      }
+    },
+    {
+      "id": "IBANAINIAIVN",
+      "metadata": {
+        "title": "Announced Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Vietnam (DISCONTINUED)",
+        "units": "Billions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-01-01",
+        "value": null
+      }
+    },
+    {
+      "id": "IBANAINIAOVN",
+      "metadata": {
+        "title": "Amount Outstanding of International Bonds and Notes for All Issuers, Nationality of Issuer in Vietnam (DISCONTINUED)",
+        "units": "Billions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-04-01",
+        "value": 4.11909
+      }
+    },
+    {
+      "id": "IBANAININIVN",
+      "metadata": {
+        "title": "Net Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Vietnam (DISCONTINUED)",
+        "units": "Billions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-01-01",
+        "value": null
+      }
+    },
+    {
+      "id": "IBANRIAIVN",
+      "metadata": {
+        "title": "Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Vietnam (DISCONTINUED)",
+        "units": "Billions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-04-01",
+        "value": 0.04615
+      }
+    },
+    {
+      "id": "IBANRIAOVN",
+      "metadata": {
+        "title": "Amount Outstanding of International Bonds and Notes for All Issuers, Residence of Issuer in Vietnam (DISCONTINUED)",
+        "units": "Billions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-04-01",
+        "value": 4.15079
+      }
+    },
+    {
+      "id": "IBANRINIVN",
+      "metadata": {
+        "title": "Net Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Vietnam (DISCONTINUED)",
+        "units": "Billions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-04-01",
+        "value": 0.04119
+      }
+    },
+    {
+      "id": "ICBUSEASEXQVNM",
+      "metadata": {
+        "title": "Ease of doing business index for Viet Nam",
+        "units": "1=Most Business-friendly Regulations",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2019-01-01",
+        "value": 70.0
+      }
+    },
+    {
+      "id": "IDS1MNIAOAIVN",
+      "metadata": {
+        "title": "Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Nationality of Issuer in Vietnam",
+        "units": "Millions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2025-04-01",
+        "value": 780.0
+      }
+    },
+    {
+      "id": "IDS1MNIAOFCVN",
+      "metadata": {
+        "title": "Amount Outstanding Due within One Year of International Debt Securities for Financial Corporations Sector, Nationality of Issuer in Vietnam (DISCONTINUED)",
+        "units": "Billions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-01-01",
+        "value": null
+      }
+    },
+    {
+      "id": "IDS1MNIAOGGVN",
+      "metadata": {
+        "title": "Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Nationality of Issuer in Vietnam (DISCONTINUED)",
+        "units": "Billions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-04-01",
+        "value": 0.87612
+      }
+    },
+    {
+      "id": "IDS1MNIAONCVN",
+      "metadata": {
+        "title": "Amount Outstanding Due within One Year of International Debt Securities for Non-financial Corporations Sector, Nationality of Issuer in Vietnam (DISCONTINUED)",
+        "units": "Billions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-04-01",
+        "value": 0.09
+      }
+    },
+    {
+      "id": "IDS1YMAORIAIVN",
+      "metadata": {
+        "title": "Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Residence of Issuer in Vietnam",
+        "units": "Millions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2025-04-01",
+        "value": 780.0
+      }
+    },
+    {
+      "id": "IDS1YMAORIFCVN",
+      "metadata": {
+        "title": "Amount Outstanding Due within One Year of International Debt Securities for Financial Corporations Sector, Residence of Issuer in Vietnam (DISCONTINUED)",
+        "units": "Billions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-04-01",
+        "value": 0.02753
+      }
+    },
+    {
+      "id": "IDS1YMAORIGGVN",
+      "metadata": {
+        "title": "Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Residence of Issuer in Vietnam",
+        "units": "Millions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2025-04-01",
+        "value": 0.0
+      }
+    },
+    {
+      "id": "IDS1YMAORINCVN",
+      "metadata": {
+        "title": "Amount Outstanding Due within One Year of International Debt Securities for Non-financial Corporations Sector, Residence of Issuer in Vietnam",
+        "units": "Millions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2025-04-01",
+        "value": 780.0
+      }
+    },
+    {
+      "id": "IDSAMRIAOVN",
+      "metadata": {
+        "title": "Amount Outstanding of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Vietnam",
+        "units": "Millions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2025-04-01",
+        "value": 3086.0
+      }
+    },
+    {
+      "id": "IDSAMRINIVN",
+      "metadata": {
+        "title": "Net Issues of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Vietnam",
+        "units": "Millions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2024-10-01",
+        "value": -1000.0
+      }
+    },
+    {
+      "id": "IDSBMRIAOVN",
+      "metadata": {
+        "title": "Amount Outstanding of International Debt Securities for Issuers in Financial Institutions Sector (Banks), All Maturities, Residence of Issuer in Vietnam (DISCONTINUED)",
+        "units": "Billions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-04-01",
+        "value": 0.29068
+      }
+    },
+    {
+      "id": "IDSBMRINIVN",
+      "metadata": {
+        "title": "Net Issues of International Debt Securities for Issuers in Financial Institutions Sector (Banks), All Maturities, Residence of Issuer in Vietnam (DISCONTINUED)",
+        "units": "Billions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-04-01",
+        "value": 0.04119
+      }
+    },
+    {
+      "id": "IDSGAMNIAOVN",
+      "metadata": {
+        "title": "Amounts Outstanding of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Vietnam",
+        "units": "Millions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2025-04-01",
+        "value": 2408.0
+      }
+    },
+    {
+      "id": "IDSGAMNINIVN",
+      "metadata": {
+        "title": "Net Issues of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Vietnam",
+        "units": "Millions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2025-01-01",
+        "value": -5.0
+      }
+    },
+    {
+      "id": "IDSGAMRIAOVN",
+      "metadata": {
+        "title": "Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Vietnam",
+        "units": "Millions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2025-04-01",
+        "value": 253.0
+      }
+    },
+    {
+      "id": "IDSGAMRINIVN",
+      "metadata": {
+        "title": "Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Vietnam",
+        "units": "Millions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2024-10-01",
+        "value": -1000.0
+      }
+    },
+    {
+      "id": "IDSGBAMNIAOVN",
+      "metadata": {
+        "title": "Amount Outstanding of International Debt Securities for Issuers in Financial Institutions Sector (Banks), All Maturities, Nationality of Issuer in Vietnam (DISCONTINUED)",
+        "units": "Billions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-04-01",
+        "value": 0.25897
+      }
+    },
+    {
+      "id": "IDSGBAMNINIVN",
+      "metadata": {
+        "title": "Net Issues of International Debt Securities for Issuers in Financial Institutions Sector (Banks), All Maturities, Nationality of Issuer in Vietnam (DISCONTINUED)",
+        "units": "Billions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-01-01",
+        "value": null
+      }
+    },
+    {
+      "id": "IDSGFCAMNIAOVN",
+      "metadata": {
+        "title": "Amount Outstanding of International Debt Securities for Issuers in Other Financial Corporations, All Maturities, Nationality of Issuer in Vietnam (DISCONTINUED)",
+        "units": "Billions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-04-01",
+        "value": 0.185
+      }
+    },
+    {
+      "id": "IDSGFCAMNINIVN",
+      "metadata": {
+        "title": "Net Issues of International Debt Securities for Issuers in Other Financial Corporations, All Maturities, Nationality of Issuer in Vietnam (DISCONTINUED)",
+        "units": "Billions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-01-01",
+        "value": null
+      }
+    },
+    {
+      "id": "IDSGGGAMNIAOVN",
+      "metadata": {
+        "title": "Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in Vietnam (DISCONTINUED)",
+        "units": "Billions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-04-01",
+        "value": 3.12891
+      }
+    },
+    {
+      "id": "IDSGGGAMNINIVN",
+      "metadata": {
+        "title": "Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in Vietnam (DISCONTINUED)",
+        "units": "Billions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-01-01",
+        "value": null
+      }
+    },
+    {
+      "id": "IDSGNFAMNIAOVN",
+      "metadata": {
+        "title": "Amount Outstanding of International Debt Securities for Issuers in Non-Financial Corporations (Corporate Issuers), All Maturities, Nationality of Issuer in Vietnam (DISCONTINUED)",
+        "units": "Billions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-04-01",
+        "value": 0.5462
+      }
+    },
+    {
+      "id": "IDSGNFAMNINIVN",
+      "metadata": {
+        "title": "Net Issues of International Debt Securities for Issuers in Non-Financial Corporations (Corporate Issuers), All Maturities, Nationality of Issuer in Vietnam (DISCONTINUED)",
+        "units": "Billions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-01-01",
+        "value": null
+      }
+    },
+    {
+      "id": "IDSNFAMRIAOVN",
+      "metadata": {
+        "title": "Amount Outstanding of International Debt Securities for Issuers in Non-Financial Corporations (Corporate Issuers), All Maturities, Residence of Issuer in Vietnam",
+        "units": "Millions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2025-04-01",
+        "value": 1855.0
+      }
+    },
+    {
+      "id": "IDSNFAMRINIVN",
+      "metadata": {
+        "title": "Net Issues of International Debt Securities for Issuers in Non-Financial Corporations (Corporate Issuers), All Maturities, Residence of Issuer in Vietnam",
+        "units": "Millions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2024-07-01",
+        "value": 150.0
+      }
+    },
+    {
+      "id": "IDSOFAMRIAOVN",
+      "metadata": {
+        "title": "Amount Outstanding of International Debt Securities for Issuers in Other Financial Corporations, All Maturities, Residence of Issuer in Vietnam (DISCONTINUED)",
+        "units": "Billions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-04-01",
+        "value": 0.185
+      }
+    },
+    {
+      "id": "IDSOFAMRINIVN",
+      "metadata": {
+        "title": "Net Issues of International Debt Securities for Issuers in Other Financial Corporations, All Maturities, Residence of Issuer in Vietnam (DISCONTINUED)",
+        "units": "Billions of US Dollars",
+        "frequency": "Quarterly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-01-01",
+        "value": null
+      }
+    },
+    {
+      "id": "IDVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Idaho",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 9093691.0
+      }
+    },
+    {
+      "id": "IDVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Idaho",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 37.0
+      }
+    },
+    {
+      "id": "ILVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Illinois",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 469497419.0
+      }
+    },
+    {
+      "id": "ILVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Illinois",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 546.0
+      }
+    },
+    {
+      "id": "IMP5520",
+      "metadata": {
+        "title": "U.S. Imports of Goods by Customs Basis from Vietnam",
+        "units": "Millions of Dollars",
+        "frequency": "Monthly",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2025-08-01",
+        "value": 16450.907627
+      }
+    },
+    {
+      "id": "INVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Indiana",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 123707217.0
+      }
+    },
+    {
+      "id": "INVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Indiana",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 211.0
+      }
+    },
+    {
+      "id": "ITNETUSERP2VNM",
+      "metadata": {
+        "title": "Internet users for Viet Nam",
+        "units": "Per 100 People",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2024-01-01",
+        "value": 84.15
+      }
+    },
+    {
+      "id": "KSVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Kansas",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 98233521.0
+      }
+    },
+    {
+      "id": "KSVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Kansas",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 90.0
+      }
+    },
+    {
+      "id": "KYVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Kentucky",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 38112564.0
+      }
+    },
+    {
+      "id": "KYVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Kentucky",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 121.0
+      }
+    },
+    {
+      "id": "LAVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Louisiana",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 108813154.0
+      }
+    },
+    {
+      "id": "LAVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Louisiana",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 99.0
+      }
+    },
+    {
+      "id": "MAVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Massachusetts",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 75955189.0
+      }
+    },
+    {
+      "id": "MAVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Massachusetts",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 281.0
+      }
+    },
+    {
+      "id": "MDVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Maryland",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 102364797.0
+      }
+    },
+    {
+      "id": "MDVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Maryland",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 139.0
+      }
+    },
+    {
+      "id": "MEVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Maine",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 5171785.0
+      }
+    },
+    {
+      "id": "MEVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Maine",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 27.0
+      }
+    },
+    {
+      "id": "MIVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Michigan",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 504897238.0
+      }
+    },
+    {
+      "id": "MIVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Michigan",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 238.0
+      }
+    },
+    {
+      "id": "MKTGDPVNA646NWDB",
+      "metadata": {
+        "title": "Gross Domestic Product for Viet Nam",
+        "units": "Current U.S. Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2024-01-01",
+        "value": 476388230307.175
+      }
+    },
+    {
+      "id": "MKTGNIVNA646NWDB",
+      "metadata": {
+        "title": "Gross National Income for Viet Nam",
+        "units": "Current U.S. Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2024-01-01",
+        "value": 460695230307.174
+      }
+    },
+    {
+      "id": "MNVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Minnesota",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 105791445.0
+      }
+    },
+    {
+      "id": "MNVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Minnesota",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 230.0
+      }
+    },
+    {
+      "id": "MOVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Missouri",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 134392784.0
+      }
+    },
+    {
+      "id": "MOVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Missouri",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 166.0
+      }
+    },
+    {
+      "id": "MSVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Mississippi",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 72212464.0
+      }
+    },
+    {
+      "id": "MSVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Mississippi",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 59.0
+      }
+    },
+    {
+      "id": "MTVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Montana",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 9893828.0
+      }
+    },
+    {
+      "id": "MTVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Montana",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 15.0
+      }
+    },
+    {
+      "id": "NCVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from North Carolina",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 218333455.0
+      }
+    },
+    {
+      "id": "NCVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from North Carolina",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 375.0
+      }
+    },
+    {
+      "id": "NDVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from North Dakota",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 7857085.0
+      }
+    },
+    {
+      "id": "NDVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from North Dakota",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 10.0
+      }
+    },
+    {
+      "id": "NEVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Nebraska",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 65994783.0
+      }
+    },
+    {
+      "id": "NEVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Nebraska",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 43.0
+      }
+    },
+    {
+      "id": "NHVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from New Hampshire",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 15836974.0
+      }
+    },
+    {
+      "id": "NHVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from New Hampshire",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 71.0
+      }
+    },
+    {
+      "id": "NJVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from New Jersey",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 78898196.0
+      }
+    },
+    {
+      "id": "NJVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from New Jersey",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 352.0
+      }
+    },
+    {
+      "id": "NMVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from New Mexico",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 4026566.0
+      }
+    },
+    {
+      "id": "NMVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from New Mexico",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 17.0
+      }
+    },
+    {
+      "id": "NVVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Nevada",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 28969438.0
+      }
+    },
+    {
+      "id": "NVVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Nevada",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 56.0
+      }
+    },
+    {
+      "id": "NYGDPPCAPKDVNM",
+      "metadata": {
+        "title": "Constant GDP per capita for Viet Nam",
+        "units": "2010 U.S. Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2024-01-01",
+        "value": 4017.74604111554
+      }
+    },
+    {
+      "id": "NYVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from New York",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 285781648.0
+      }
+    },
+    {
+      "id": "NYVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from New York",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 575.0
+      }
+    },
+    {
+      "id": "OHVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Ohio",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 230548774.0
+      }
+    },
+    {
+      "id": "OHVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Ohio",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 452.0
+      }
+    },
+    {
+      "id": "OKVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Oklahoma",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 51549191.0
+      }
+    },
+    {
+      "id": "OKVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Oklahoma",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 62.0
+      }
+    },
+    {
+      "id": "ORVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Oregon",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 720189906.0
+      }
+    },
+    {
+      "id": "ORVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Oregon",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 140.0
+      }
+    },
+    {
+      "id": "PAVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Pennsylvania",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 121998190.0
+      }
+    },
+    {
+      "id": "PAVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Pennsylvania",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 410.0
+      }
+    },
+    {
+      "id": "PCAGDPVNA646NWDB",
+      "metadata": {
+        "title": "Gross Domestic Product Per Capita for Viet Nam",
+        "units": "Current U.S. Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2024-01-01",
+        "value": 4717.29028732449
+      }
+    },
+    {
+      "id": "POPTOTVN52647NWDB",
+      "metadata": {
+        "title": "Population, Total for Viet Nam",
+        "units": "Persons",
+        "frequency": "5 Year",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2012-01-01",
+        "value": 88772900.0
+      }
+    },
+    {
+      "id": "POPTOTVNA647NWDB",
+      "metadata": {
+        "title": "Population, Total for Viet Nam",
+        "units": "Persons",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2024-01-01",
+        "value": 100987686.0
+      }
+    },
+    {
+      "id": "PRVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Puerto Rico",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 17990881.0
+      }
+    },
+    {
+      "id": "PRVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Puerto Rico",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 17.0
+      }
+    },
+    {
+      "id": "RIVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Rhode Island",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 14219995.0
+      }
+    },
+    {
+      "id": "RIVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Rhode Island",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 47.0
+      }
+    },
+    {
+      "id": "SCVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from South Carolina",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 158240689.0
+      }
+    },
+    {
+      "id": "SCVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from South Carolina",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 221.0
+      }
+    },
+    {
+      "id": "SDVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from South Dakota",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 8672232.0
+      }
+    },
+    {
+      "id": "SDVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from South Dakota",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 25.0
+      }
+    },
+    {
+      "id": "SEADTLITRZSVNM",
+      "metadata": {
+        "title": "Literacy Rate, Adult Total for Viet Nam",
+        "units": "Percent of People Ages 15 and Above",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 96.129997253418
+      }
+    },
+    {
+      "id": "SMPOPNETMVNM",
+      "metadata": {
+        "title": "Net migration for Viet Nam",
+        "units": "People",
+        "frequency": "5 Year",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2017-01-01",
+        "value": -399999.0
+      }
+    },
+    {
+      "id": "SPDYNIMRTINVNM",
+      "metadata": {
+        "title": "Infant Mortality Rate for Viet Nam",
+        "units": "Number per 1,000 Live Births",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2023-01-01",
+        "value": 14.0
+      }
+    },
+    {
+      "id": "SPDYNLE00INVNM",
+      "metadata": {
+        "title": "Life Expectancy at Birth, Total for Viet Nam",
+        "units": "Number of Years",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2023-01-01",
+        "value": 74.588
+      }
+    },
+    {
+      "id": "SPDYNTFRTINVNM",
+      "metadata": {
+        "title": "Fertility Rate, Total for Viet Nam",
+        "units": "Births per Woman",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2023-01-01",
+        "value": 1.913
+      }
+    },
+    {
+      "id": "SPPOP65UPTOZSVNM",
+      "metadata": {
+        "title": "Population ages 65 and above for Viet Nam",
+        "units": "Percent of Total",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2024-01-01",
+        "value": 9.04718319297274
+      }
+    },
+    {
+      "id": "TNVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Tennessee",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 185487126.0
+      }
+    },
+    {
+      "id": "TNVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Tennessee",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 232.0
+      }
+    },
+    {
+      "id": "TXVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Texas",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 1708015008.0
+      }
+    },
+    {
+      "id": "TXVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Texas",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 868.0
+      }
+    },
+    {
+      "id": "UTVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Utah",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 37999911.0
+      }
+    },
+    {
+      "id": "UTVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Utah",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 94.0
+      }
+    },
+    {
+      "id": "VAVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Virginia",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 204017859.0
+      }
+    },
+    {
+      "id": "VAVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Virginia",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 261.0
+      }
+    },
+    {
+      "id": "VIVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from U.S. Virgin Islands",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-01-01",
+        "value": 2.0
+      }
+    },
+    {
+      "id": "VNMBCABP6USD",
+      "metadata": {
+        "title": "Balance of Payments: Total Net Current Account for Vietnam",
+        "units": "U.S. Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2024-01-01",
+        "value": 3949864827.8
+      }
+    },
+    {
+      "id": "VNMBCAGDPBP6PT",
+      "metadata": {
+        "title": "Balance of Payments: Total Net Current Account for Vietnam",
+        "units": "Percent of GDP",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2029-01-01",
+        "value": 1.3164415544
+      }
+    },
+    {
+      "id": "VNMFCAANUM",
+      "metadata": {
+        "title": "Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Vietnam",
+        "units": "Number",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2023-01-01",
+        "value": 27.2522132071
+      }
+    },
+    {
+      "id": "VNMFCACLNUM",
+      "metadata": {
+        "title": "Geographical Outreach: Number of Automated Teller Machines (ATMs) in 3 Largest Cities for Vietnam",
+        "units": "Number",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2015-01-01",
+        "value": 6909.0
+      }
+    },
+    {
+      "id": "VNMFCACNUM",
+      "metadata": {
+        "title": "Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Vietnam",
+        "units": "Number",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2023-01-01",
+        "value": 20961.0
+      }
+    },
+    {
+      "id": "VNMFCAKNUM",
+      "metadata": {
+        "title": "Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Vietnam",
+        "units": "Number",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2023-01-01",
+        "value": 66.8763898682
+      }
+    },
+    {
+      "id": "VNMFCBODCANUM",
+      "metadata": {
+        "title": "Geographical Outreach: Key Indicators Commercial Bank Branches Per 100,000 Adults for Vietnam",
+        "units": "Number",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2023-01-01",
+        "value": 3.0618273032
+      }
+    },
+    {
+      "id": "VNMFCBODCKNUM",
+      "metadata": {
+        "title": "Geographical Outreach: Key Indicators Commercial Bank Branches Per 1000 Km2 for Vietnam",
+        "units": "Number",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2023-01-01",
+        "value": 7.5136633815
+      }
+    },
+    {
+      "id": "VNMFCBODCNUM",
+      "metadata": {
+        "title": "Geographical Outreach: Number of Branches, Excluding Headquarters, for Commercial Banks for Vietnam",
+        "units": "Number",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2023-01-01",
+        "value": 2309.0
+      }
+    },
+    {
+      "id": "VNMFCBODDNUM",
+      "metadata": {
+        "title": "Geographical Outreach: Number of Branches, Excluding Headquarters, for Other Deposit Takers for Vietnam",
+        "units": "Number",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2023-01-01",
+        "value": 28.0
+      }
+    },
+    {
+      "id": "VNMFCBODMFKNUM",
+      "metadata": {
+        "id": "VNMFCBODMFKNUM",
+        "title": "Geographical Outreach: Key Indicators, All MFI Branches Per 1000 Km2 for Vietnam",
+        "units": "Number",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted",
+        "notes": "Copyright © 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+      },
+      "error": "Too Many Requests.  Exceeded Rate Limit",
+      "latest_data": null
+    },
+    {
+      "id": "VNMFCBODMFNUM",
+      "metadata": {
+        "id": "VNMFCBODMFNUM",
+        "title": "Geographical Outreach: Number of Branches, Excluding Headquarters, for Deposit Taking Microfinance Institutions (MFIs) for Vietnam",
+        "units": "Number",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted",
+        "notes": "Copyright © 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+      },
+      "error": "Too Many Requests.  Exceeded Rate Limit",
+      "latest_data": null
+    },
+    {
+      "id": "VNMFCBODNUM",
+      "metadata": {
+        "id": "VNMFCBODNUM",
+        "title": "Geographical Outreach: Number of Branches, Excluding Headquarters, for Other Depository Corporations for Vietnam",
+        "units": "Number",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted",
+        "notes": "Copyright © 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+      },
+      "error": "Too Many Requests.  Exceeded Rate Limit",
+      "latest_data": null
+    },
+    {
+      "id": "VNMFCBODUANUM",
+      "metadata": {
+        "id": "VNMFCBODUANUM",
+        "title": "Geographical Outreach: Key Indicators, Credit Union and Financial Cooperative Branches Per 100,000 Adults for Vietnam",
+        "units": "Number",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted",
+        "notes": "Copyright © 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+      },
+      "error": "Too Many Requests.  Exceeded Rate Limit",
+      "latest_data": null
+    },
+    {
+      "id": "VNMFCBODUKNUM",
+      "metadata": {
+        "id": "VNMFCBODUKNUM",
+        "title": "Geographical Outreach: Key Indicators, Credit Union and Financial Cooperative Branches Per 1000 Km2 for Vietnam",
+        "units": "Number",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted",
+        "notes": "Copyright © 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+      },
+      "error": "Too Many Requests.  Exceeded Rate Limit",
+      "latest_data": null
+    },
+    {
+      "id": "VNMFCBODUNUM",
+      "metadata": {
+        "id": "VNMFCBODUNUM",
+        "title": "Geographical Outreach: Number of Branches, Excluding Headquarters, for Credit Unions and Financial Cooperatives for Vietnam",
+        "units": "Number",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted",
+        "notes": "Copyright © 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+      },
+      "error": "Too Many Requests.  Exceeded Rate Limit",
+      "latest_data": null
+    },
+    {
+      "id": "VNMFCIODCNUM",
+      "metadata": {
+        "id": "VNMFCIODCNUM",
+        "title": "Geographical Outreach: Number of Commercial Banks for Vietnam",
+        "units": "Number",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted",
+        "notes": "Copyright © 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+      },
+      "error": "Too Many Requests.  Exceeded Rate Limit",
+      "latest_data": null
+    },
+    {
+      "id": "VNMFCIODDNUM",
+      "metadata": {
+        "id": "VNMFCIODDNUM",
+        "title": "Geographical Outreach: Number of Institutions, Other Depository Corporations, Other Deposit Takers for Vietnam",
+        "units": "Number",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted",
+        "notes": "Copyright © 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+      },
+      "error": "Too Many Requests.  Exceeded Rate Limit",
+      "latest_data": null
+    },
+    {
+      "id": "VNMFCIODMFNUM",
+      "metadata": {
+        "id": "VNMFCIODMFNUM",
+        "title": "Geographical Outreach: Number of Institutions, Other Depository Corporations, Deposit Taking Microfinance Institutions (MFIs) for Vietnam",
+        "units": "Number",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted",
+        "notes": "Copyright © 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+      },
+      "error": "Too Many Requests.  Exceeded Rate Limit",
+      "latest_data": null
+    },
+    {
+      "id": "VNMFCIODNUM",
+      "metadata": {
+        "id": "VNMFCIODNUM",
+        "title": "Geographical Outreach: Number of Institutions, Other Depository Corporations for Vietnam",
+        "units": "Number",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted",
+        "notes": "Copyright © 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+      },
+      "error": "Too Many Requests.  Exceeded Rate Limit",
+      "latest_data": null
+    },
+    {
+      "id": "VNMFCIODUNUM",
+      "metadata": {
+        "id": "VNMFCIODUNUM",
+        "title": "Geographical Outreach: Number of Credit Unions and Financial Cooperatives for Vietnam",
+        "units": "Number",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted",
+        "notes": "Copyright © 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+      },
+      "error": "Too Many Requests.  Exceeded Rate Limit",
+      "latest_data": null
+    },
+    {
+      "id": "VNMFCLODCGGDPPT",
+      "metadata": {
+        "id": "VNMFCLODCGGDPPT",
+        "title": "Use of Financial Services: Key Indicators, Outstanding Deposits with Commercial Banks for Vietnam",
+        "units": "Percent of GDP",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted",
+        "notes": "Copyright © 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+      },
+      "error": "Too Many Requests.  Exceeded Rate Limit",
+      "latest_data": null
+    },
+    {
+      "id": "VNMFCLODCXDC",
+      "metadata": {
+        "id": "VNMFCLODCXDC",
+        "title": "Use of Financial Services, Liabilities: Outstanding Deposits at Commercial Banks for Vietnam",
+        "units": "National Currency",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted",
+        "notes": "Copyright © 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+      },
+      "error": "Too Many Requests.  Exceeded Rate Limit",
+      "latest_data": null
+    },
+    {
+      "id": "VNMFCLODDXDC",
+      "metadata": {
+        "id": "VNMFCLODDXDC",
+        "title": "Use of Financial Services, Liabilities: Outstanding Deposits at Other Deposit Takers for Vietnam",
+        "units": "National Currency",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted",
+        "notes": "Copyright © 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+      },
+      "error": "Too Many Requests.  Exceeded Rate Limit",
+      "latest_data": null
+    },
+    {
+      "id": "VNMFCLODUGGDPPT",
+      "metadata": {
+        "id": "VNMFCLODUGGDPPT",
+        "title": "Use of Financial Services: Key Indicators, Outstanding Deposits with Credit Unions and Financial Cooperatives for Vietnam",
+        "units": "Percent of GDP",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted",
+        "notes": "Copyright © 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+      },
+      "error": "Too Many Requests.  Exceeded Rate Limit",
+      "latest_data": null
+    },
+    {
+      "id": "VNMFCLODUXDC",
+      "metadata": {
+        "id": "VNMFCLODUXDC",
+        "title": "Use of Financial Services, Liabilities: Outstanding Deposits at Credit Unions and Financial Cooperatives for Vietnam",
+        "units": "National Currency",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted",
+        "notes": "Copyright © 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+      },
+      "error": "Too Many Requests.  Exceeded Rate Limit",
+      "latest_data": null
+    },
+    {
+      "id": "VNMFCSODCGGDPPT",
+      "metadata": {
+        "id": "VNMFCSODCGGDPPT",
+        "title": "Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks for Vietnam",
+        "units": "Percent of GDP",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted",
+        "notes": "Copyright © 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+      },
+      "error": "Too Many Requests.  Exceeded Rate Limit",
+      "latest_data": null
+    },
+    {
+      "id": "VNMFCSODCXDC",
+      "metadata": {
+        "title": "Use of Financial Services, Assets: Outstanding Loans at Commercial Banks for Vietnam",
+        "units": "National Currency",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2023-01-01",
+        "value": 1.3244136319e+16
+      }
+    },
+    {
+      "id": "VNMFCSODDXDC",
+      "metadata": {
+        "title": "Use of Financial Services, Assets: Outstanding Loans at Other Deposit Takers for Vietnam",
+        "units": "National Currency",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2023-01-01",
+        "value": 261745606000000.0
+      }
+    },
+    {
+      "id": "VNMFCSODUGGDPPT",
+      "metadata": {
+        "title": "Use of Financial Services: Key Indicators, Outstanding Loans from Credit Unions and Financial Cooperatives for Vietnam",
+        "units": "Percent of GDP",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2023-01-01",
+        "value": 1.5975303983
+      }
+    },
+    {
+      "id": "VNMFCSODUXDC",
+      "metadata": {
+        "title": "Use of Financial Services, Assets: Outstanding Loans at Credit Unions and Financial Cooperatives for Vietnam",
+        "units": "National Currency",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2023-01-01",
+        "value": 163296597000000.0
+      }
+    },
+    {
+      "id": "VNMGGXCNLG01GDPPT",
+      "metadata": {
+        "title": "Fiscal Situation of General Government: Net Lending/borrowing for Vietnam",
+        "units": "Percent of Fiscal Year GDP",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2029-01-01",
+        "value": -1.8102016098
+      }
+    },
+    {
+      "id": "VNMGGXWDGG01GDPPT",
+      "metadata": {
+        "title": "Fiscal Situation of General Government: Gross Debt Position for Vietnam",
+        "units": "Percent of Fiscal Year GDP",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2024-01-01",
+        "value": 49.3892451908
+      }
+    },
+    {
+      "id": "VNMNGDPDUSD",
+      "metadata": {
+        "title": "National Accounts: Gross Domestic Product for Vietnam",
+        "units": "U.S. Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2024-01-01",
+        "value": 394887574462.1
+      }
+    },
+    {
+      "id": "VNMNGDPRPCPPPT",
+      "metadata": {
+        "title": "National Accounts: Real Gross Domestic Product for Vietnam",
+        "units": "Percent Change",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2029-01-01",
+        "value": 5.55
+      }
+    },
+    {
+      "id": "VNMNTDDRPCPPPT",
+      "metadata": {
+        "title": "National Accounts: Real Total Domestic Demand for Vietnam",
+        "units": "Percent Change",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2024-01-01",
+        "value": 6.9493882482
+      }
+    },
+    {
+      "id": "VNMPCPIPCPPPT",
+      "metadata": {
+        "title": "Prices: Consumer Price Index for Vietnam",
+        "units": "Percent Change",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2029-01-01",
+        "value": 3.39
+      }
+    },
+    {
+      "id": "VNMTMRPCPPPT",
+      "metadata": {
+        "title": "External Trade: Volume of Imports of Goods and Services for Vietnam",
+        "units": "Percent Change",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2024-01-01",
+        "value": 12.0919552248
+      }
+    },
+    {
+      "id": "VNMTXRPCPPPT",
+      "metadata": {
+        "title": "External Trade: Volume of Exports of Goods and Services for Vietnam",
+        "units": "Percent Change",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2024-01-01",
+        "value": 12.125835825
+      }
+    },
+    {
+      "id": "VTVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Vermont",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 907609.0
+      }
+    },
+    {
+      "id": "VTVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Vermont",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 18.0
+      }
+    },
+    {
+      "id": "WAVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Washington",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 599281379.0
+      }
+    },
+    {
+      "id": "WAVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Washington",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 308.0
+      }
+    },
+    {
+      "id": "WIVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Wisconsin",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 121665298.0
+      }
+    },
+    {
+      "id": "WIVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Wisconsin",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 272.0
+      }
+    },
+    {
+      "id": "WVVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from West Virginia",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 20655768.0
+      }
+    },
+    {
+      "id": "WVVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from West Virginia",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 42.0
+      }
+    },
+    {
+      "id": "WYVNMA052SCEN",
+      "metadata": {
+        "title": "Value of Exports to Vietnam from Wyoming",
+        "units": "Dollars",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 94543460.0
+      }
+    },
+    {
+      "id": "WYVNMA475SCEN",
+      "metadata": {
+        "title": "Number of Identified Exporters to Vietnam from Wyoming",
+        "units": "Number of Firms",
+        "frequency": "Annual",
+        "seasonal_adjustment": "Not Seasonally Adjusted"
+      },
+      "latest_data": {
+        "date": "2022-01-01",
+        "value": 9.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+crawl4ai
+asyncio
+python-dotenv
+pdfplumber
+cloudscraper
+beautifulsoup4
+pypdf
+aiohttp
+pandas
+yfinance
+requests
+urllib3
+fredapi

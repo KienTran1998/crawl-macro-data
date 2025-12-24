@@ -1,0 +1,30 @@
+# Các file hướng dẫn của AI (Theo yêu cầu)
+CLAUDE.md
+PROJECT_GUIDE.md
+
+# File môi trường và bảo mật
+.env
+*.env
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dữ liệu cache và log
+*.log
+.cache/
+.pytest_cache/
+
+# Dữ liệu output (Nếu bạn không muốn đẩy file JSON dữ liệu lớn lên Git)
+# scrapers/customs_vn/data/customs_data.json

@@ -1,0 +1,4237 @@
+{
+    "last_updated": "2025-12-04 02:00:54",
+    "source": "WFP",
+    "total_records": 470,
+    "data": [
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 77.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 97.19,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 51.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 25.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 32.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 26.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 25.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 60.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 66.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 78.5,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 350.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 600.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 112.31,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 75.62,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 43.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 104.81,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 68.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 25.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 31.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 27.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 10.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 66.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 76.56,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 293.75,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 500.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 100.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 86.75,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 63.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 105.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 45.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 21.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 27.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 24.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 25.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 50.62,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 67.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 75.37,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 284.37,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 500.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 113.19,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 73.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 56.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 114.38,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 57.81,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 21.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 28.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 24.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 25.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 57.19,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 66.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 73.62,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 700.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 112.19,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 88.69,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 118.19,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 95.5,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 26.25,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 29.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 27.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 20.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 56.25,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 67.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 78.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 350.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 700.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 108.62,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 80.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 100.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 124.38,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 100.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 33.75,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 32.75,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 30.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 70.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 67.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 80.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 500.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 130.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 120.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 40.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 100.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 25.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 29.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 25.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 20.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 52.19,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 66.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 73.81,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 600.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 100.56,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 109.37,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 104.38,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 42.19,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 23.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 28.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 25.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 25.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 66.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 76.56,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 250.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 600.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 108.75,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 89.37,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 54.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 99.38,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 56.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 29.19,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 31.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 28.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 23.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 48.25,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 67.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 76.75,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 630.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 108.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 93.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 125.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 80.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 27.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 34.62,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 31.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 20.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 60.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 66.56,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 80.62,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 500.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 100.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 109.75,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 99.25,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 43.75,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 27.19,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 33.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 29.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 15.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 66.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 73.87,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 600.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 113.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 111.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 42.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 112.25,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 52.19,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 28.19,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 31.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 29.75,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 22.19,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 66.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 74.19,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 600.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 110.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 97.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 63.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 113.13,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 55.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 21.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 29.12,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 26.56,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 15.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 55.62,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 67.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 80.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 800.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 115.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 98.31,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 117.81,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 70.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 27.56,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 29.56,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 27.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 25.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 67.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 76.94,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 400.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 800.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 115.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 103.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 96.69,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 37.5,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 29.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 32.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 30.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 14.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 46.31,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 66.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 72.87,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 750.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 113.75,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 117.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 103.94,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 47.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 26.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 29.56,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 28.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 30.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 49.56,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 66.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 77.37,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 632.5,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 112.5,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 79.81,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 56.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 98.38,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 40.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 27.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 30.56,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 29.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 15.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 67.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 78.5,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 700.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 120.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 92.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 54.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 120.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 32.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 30.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 20.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 66.12,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 78.12,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 600.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 92.75,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 113.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 51.62,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 120.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 22.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 32.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 25.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 20.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 60.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 67.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 70.12,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 600.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 115.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 73.87,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 91.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 96.06,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 36.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 24.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 31.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 28.31,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 18.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 66.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 78.5,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 500.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 101.75,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 112.56,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 77.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 101.5,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 70.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 27.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 32.75,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 28.31,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 20.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 66.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 77.5,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 350.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 800.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 108.06,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 93.56,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 67.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 102.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 44.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 25.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 31.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 28.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 20.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 66.56,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 78.12,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 600.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 103.31,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 115.5,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 40.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 111.75,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 59.62,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 27.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 32.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 29.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 28.31,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 59.62,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 66.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 66.81,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 433.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 997.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 119.62,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 111.31,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 67.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 130.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 60.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 36.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 32.56,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 25.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 70.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 90.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 600.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 111.69,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 132.81,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 94.38,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 52.62,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 27.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 32.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 29.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 20.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 67.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 77.56,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 600.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 110.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 92.69,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 77.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 95.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 63.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 26.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 30.12,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 27.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 25.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 66.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 78.06,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 350.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 800.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 105.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 93.56,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 104.38,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 48.75,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 26.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 30.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 28.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 30.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 52.19,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 66.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 77.37,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 650.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 117.31,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 81.12,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 103.5,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 48.31,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 26.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 30.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 26.56,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 30.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 50.31,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 66.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 77.37,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 650.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 115.62,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 80.69,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 56.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 102.19,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 25.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 31.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 26.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 25.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 66.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 75.94,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 250.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 600.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 106.56,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 97.37,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 102.19,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 50.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 24.75,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 30.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 26.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 25.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 54.38,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 66.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 75.81,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 700.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 114.38,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 83.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 77.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 108.75,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 44.31,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 22.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 28.25,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 25.12,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 20.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 60.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 66.12,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 76.94,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 700.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 110.62,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 61.75,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 38.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 93.75,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 49.19,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 28.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 34.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 29.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 15.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 46.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 67.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 73.94,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 250.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 1000.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 110.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 101.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 56.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 100.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 56.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 29.19,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 31.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 28.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 23.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 48.25,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 67.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 77.31,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 600.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 108.25,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 93.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Bread",
+            "price": 48.31,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (high quality)",
+            "price": 106.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Rice (low quality)",
+            "price": 57.62,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat",
+            "price": 31.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (high quality)",
+            "price": 33.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wheat flour (low quality)",
+            "price": 29.88,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Salt",
+            "price": 16.31,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Sugar",
+            "price": 57.06,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Exchange rate",
+            "price": 66.44,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Fuel (diesel)",
+            "price": 73.25,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (non-qualified labour, non-agricultural)",
+            "price": 300.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Wage (qualified labour)",
+            "price": 650.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Oil (cooking)",
+            "price": 110.0,
+            "date": "2025-11-15",
+            "year": 2025
+        },
+        {
+            "source": "WFP",
+            "data_type": "market_price",
+            "country": "AFG",
+            "commodity": "Pulses",
+            "price": 109.31,
+            "date": "2025-11-15",
+            "year": 2025
+        }
+    ]
+}
