@@ -8,6 +8,8 @@ pypdf
 aiohttp
 pandas
 yfinance
+pandas_datareader
 requests
 urllib3
 fredapi
+playwright
