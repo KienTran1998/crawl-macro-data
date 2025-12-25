@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "description": "China Macro Economic Indicators",
+    "indicators": [
+      "gdp",
+      "gdp_growth"
+    ],
+    "sources": [
+      "FRED",
+      "World Bank"
+    ],
+    "period": "2015-01-01 to 2025-12-25",
+    "total_records": 5,
+    "last_updated": "2025-12-25 23:53:12",
+    "note": "PMI and detailed credit data not available through these APIs. Consider manual data entry or alternative sources like Trading Economics."
+  },
+  "data": [
+    {
+      "indicator": "gdp",
+      "date": "2015-01-01",
+      "value": 18379366.0,
+      "source": "FRED"
+    },
+    {
+      "indicator": "gdp",
+      "date": "2016-01-01",
+      "value": 19132416.0,
+      "source": "FRED"
+    },
+    {
+      "indicator": "gdp",
+      "date": "2017-01-01",
+      "value": 19687162.0,
+      "source": "FRED"
+    },
+    {
+      "indicator": "gdp",
+      "date": "2018-01-01",
+      "value": 19841296.0,
+      "source": "FRED"
+    },
+    {
+      "indicator": "gdp",
+      "date": "2019-01-01",
+      "value": 20572606.0,
+      "source": "FRED"
+    }
+  ]
+}
