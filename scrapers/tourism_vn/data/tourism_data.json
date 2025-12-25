@@ -1,0 +1,4792 @@
+{
+  "metadata": {
+    "source": "https://thongke.tourism.vn/",
+    "description": "International visitors to Vietnam",
+    "categories": [
+      "by_transport",
+      "by_market",
+      "by_visitor_type",
+      "by_visitor_group"
+    ],
+    "year_range": "2008-2025",
+    "total_records": 796
+  },
+  "data": [
+    {
+      "subcategory": "Đường biển",
+      "year": 2008,
+      "value": 67024,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường biển",
+      "year": 2009,
+      "value": 50500,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường biển",
+      "year": 2010,
+      "value": 43393,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường biển",
+      "year": 2011,
+      "value": 86806,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường biển",
+      "year": 2012,
+      "value": 191261,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường biển",
+      "year": 2013,
+      "value": 48592,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường biển",
+      "year": 2014,
+      "value": 63428,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường biển",
+      "year": 2015,
+      "value": 284855,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường biển",
+      "year": 2016,
+      "value": 258836,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường biển",
+      "year": 2017,
+      "value": 215306,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường biển",
+      "year": 2018,
+      "value": 264115,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường biển",
+      "year": 2019,
+      "value": 144109,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường biển",
+      "year": 2020,
+      "value": 3139,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường biển",
+      "year": 2022,
+      "value": 126087,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường biển",
+      "year": 2023,
+      "value": 248050,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường biển",
+      "year": 2024,
+      "value": 228775,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường biển",
+      "year": 2025,
+      "value": 2389346,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường bộ",
+      "year": 2008,
+      "value": 682031,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường bộ",
+      "year": 2009,
+      "value": 922500,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường bộ",
+      "year": 2010,
+      "value": 941580,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường bộ",
+      "year": 2011,
+      "value": 983176,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường bộ",
+      "year": 2012,
+      "value": 1410350,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường bộ",
+      "year": 2013,
+      "value": 1553706,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường bộ",
+      "year": 2014,
+      "value": 1553384,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường bộ",
+      "year": 2015,
+      "value": 1467257,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường bộ",
+      "year": 2016,
+      "value": 1753018,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường bộ",
+      "year": 2017,
+      "value": 2797498,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường bộ",
+      "year": 2018,
+      "value": 3366967,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường bộ",
+      "year": 2019,
+      "value": 551085,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường bộ",
+      "year": 2020,
+      "value": 380932,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường bộ",
+      "year": 2022,
+      "value": 1525798,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường bộ",
+      "year": 2023,
+      "value": 2491731,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường bộ",
+      "year": 2024,
+      "value": 2735867,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường bộ",
+      "year": 2025,
+      "value": 25461275,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường không",
+      "year": 2008,
+      "value": 3027653,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường không",
+      "year": 2009,
+      "value": 4061712,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường không",
+      "year": 2010,
+      "value": 4936952,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường không",
+      "year": 2011,
+      "value": 5674176,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường không",
+      "year": 2012,
+      "value": 5979953,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường không",
+      "year": 2013,
+      "value": 6284715,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường không",
+      "year": 2014,
+      "value": 6282040,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường không",
+      "year": 2015,
+      "value": 8260623,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường không",
+      "year": 2016,
+      "value": 10910297,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường không",
+      "year": 2017,
+      "value": 12484987,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường không",
+      "year": 2018,
+      "value": 14377509,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường không",
+      "year": 2019,
+      "value": 2991585,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường không",
+      "year": 2020,
+      "value": 3277151,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường không",
+      "year": 2022,
+      "value": 10950549,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường không",
+      "year": 2023,
+      "value": 14844120,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường không",
+      "year": 2024,
+      "value": 16181730,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Đường không",
+      "year": 2025,
+      "value": 132052928,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2008,
+      "value": 3776708,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2009,
+      "value": 5034712,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2010,
+      "value": 5921925,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2011,
+      "value": 6744158,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2012,
+      "value": 7581564,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2013,
+      "value": 7887013,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2014,
+      "value": 7898852,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2015,
+      "value": 10012735,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2016,
+      "value": 12922151,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2017,
+      "value": 15497791,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2018,
+      "value": 18008591,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2019,
+      "value": 3686779,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2020,
+      "value": 3661222,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2022,
+      "value": 12602434,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2023,
+      "value": 17583901,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2024,
+      "value": 19146372,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2025,
+      "value": 159903549,
+      "category": "by_transport"
+    },
+    {
+      "subcategory": "Ba Lan",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ba Lan",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ba Lan",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ba Lan",
+      "year": 2011,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ba Lan",
+      "year": 2012,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ba Lan",
+      "year": 2013,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ba Lan",
+      "year": 2014,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ba Lan",
+      "year": 2015,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ba Lan",
+      "year": 2016,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ba Lan",
+      "year": 2017,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ba Lan",
+      "year": 2018,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ba Lan",
+      "year": 2019,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ba Lan",
+      "year": 2020,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ba Lan",
+      "year": 2022,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ba Lan",
+      "year": 2023,
+      "value": 51157,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ba Lan",
+      "year": 2024,
+      "value": 62282,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ba Lan",
+      "year": 2025,
+      "value": 113439,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Bỉ",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Bỉ",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Bỉ",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Bỉ",
+      "year": 2011,
+      "value": 1706,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Bỉ",
+      "year": 2012,
+      "value": 21572,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Bỉ",
+      "year": 2013,
+      "value": 23275,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Bỉ",
+      "year": 2014,
+      "value": 23689,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Bỉ",
+      "year": 2015,
+      "value": 26231,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Bỉ",
+      "year": 2016,
+      "value": 29144,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Bỉ",
+      "year": 2017,
+      "value": 31382,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Bỉ",
+      "year": 2018,
+      "value": 34187,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Bỉ",
+      "year": 2019,
+      "value": 7452,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Bỉ",
+      "year": 2020,
+      "value": 11411,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Bỉ",
+      "year": 2022,
+      "value": 26353,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Bỉ",
+      "year": 2023,
+      "value": 31730,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Bỉ",
+      "year": 2024,
+      "value": 34439,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Bỉ",
+      "year": 2025,
+      "value": 306911,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Campuchia",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Campuchia",
+      "year": 2009,
+      "value": 239281,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Campuchia",
+      "year": 2010,
+      "value": 408400,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Campuchia",
+      "year": 2011,
+      "value": 338684,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Campuchia",
+      "year": 2012,
+      "value": 315289,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Campuchia",
+      "year": 2013,
+      "value": 397399,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Campuchia",
+      "year": 2014,
+      "value": 220449,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Campuchia",
+      "year": 2015,
+      "value": 211949,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Campuchia",
+      "year": 2016,
+      "value": 222614,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Campuchia",
+      "year": 2017,
+      "value": 202954,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Campuchia",
+      "year": 2018,
+      "value": 227910,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Campuchia",
+      "year": 2019,
+      "value": 120430,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Campuchia",
+      "year": 2020,
+      "value": 200907,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Campuchia",
+      "year": 2022,
+      "value": 402062,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Campuchia",
+      "year": 2023,
+      "value": 474580,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Campuchia",
+      "year": 2024,
+      "value": 614255,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Campuchia",
+      "year": 2025,
+      "value": 4627848,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Canada",
+      "year": 2008,
+      "value": 63620,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Canada",
+      "year": 2009,
+      "value": 10043,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Canada",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Canada",
+      "year": 2011,
+      "value": 9043,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Canada",
+      "year": 2012,
+      "value": 104973,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Canada",
+      "year": 2013,
+      "value": 105279,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Canada",
+      "year": 2014,
+      "value": 105189,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Canada",
+      "year": 2015,
+      "value": 122929,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Canada",
+      "year": 2016,
+      "value": 138242,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Canada",
+      "year": 2017,
+      "value": 149535,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Canada",
+      "year": 2018,
+      "value": 159121,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Canada",
+      "year": 2019,
+      "value": 41807,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Canada",
+      "year": 2020,
+      "value": 51069,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Canada",
+      "year": 2022,
+      "value": 133493,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Canada",
+      "year": 2023,
+      "value": 152527,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Canada",
+      "year": 2024,
+      "value": 155779,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Canada",
+      "year": 2025,
+      "value": 1521834,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Á",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Á",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Á",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Á",
+      "year": 2011,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Á",
+      "year": 2012,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Á",
+      "year": 2013,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Á",
+      "year": 2014,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Á",
+      "year": 2015,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Á",
+      "year": 2016,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Á",
+      "year": 2017,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Á",
+      "year": 2018,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Á",
+      "year": 2019,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Á",
+      "year": 2020,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Á",
+      "year": 2022,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Á",
+      "year": 2023,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Á",
+      "year": 2024,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Á",
+      "year": 2025,
+      "value": 395007,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Âu",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Âu",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Âu",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Âu",
+      "year": 2011,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Âu",
+      "year": 2012,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Âu",
+      "year": 2013,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Âu",
+      "year": 2014,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Âu",
+      "year": 2015,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Âu",
+      "year": 2016,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Âu",
+      "year": 2017,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Âu",
+      "year": 2018,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Âu",
+      "year": 2019,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Âu",
+      "year": 2020,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Âu",
+      "year": 2022,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Âu",
+      "year": 2023,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Âu",
+      "year": 2024,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Châu Âu",
+      "year": 2025,
+      "value": 90555,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác",
+      "year": 2008,
+      "value": 1039850,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác",
+      "year": 2009,
+      "value": 1288800,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác",
+      "year": 2010,
+      "value": 1434146,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác",
+      "year": 2011,
+      "value": 1536299,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác",
+      "year": 2012,
+      "value": 598755,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác",
+      "year": 2013,
+      "value": 425355,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác",
+      "year": 2014,
+      "value": 428153,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác",
+      "year": 2015,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác",
+      "year": 2016,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác",
+      "year": 2017,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác",
+      "year": 2018,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác",
+      "year": 2019,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác",
+      "year": 2020,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác",
+      "year": 2022,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác",
+      "year": 2023,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác",
+      "year": 2024,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác",
+      "year": 2025,
+      "value": 6966155,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Mỹ",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Mỹ",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Mỹ",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Mỹ",
+      "year": 2011,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Mỹ",
+      "year": 2012,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Mỹ",
+      "year": 2013,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Mỹ",
+      "year": 2014,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Mỹ",
+      "year": 2015,
+      "value": 59500,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Mỹ",
+      "year": 2016,
+      "value": 64674,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Mỹ",
+      "year": 2017,
+      "value": 67069,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Mỹ",
+      "year": 2018,
+      "value": 68502,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Mỹ",
+      "year": 2019,
+      "value": 19537,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Mỹ",
+      "year": 2020,
+      "value": 19633,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Mỹ",
+      "year": 2022,
+      "value": 53218,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Mỹ",
+      "year": 2023,
+      "value": 67755,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Mỹ",
+      "year": 2024,
+      "value": 72211,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Mỹ",
+      "year": 2025,
+      "value": 492099,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Phi",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Phi",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Phi",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Phi",
+      "year": 2011,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Phi",
+      "year": 2012,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Phi",
+      "year": 2013,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Phi",
+      "year": 2014,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Phi",
+      "year": 2015,
+      "value": 28564,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Phi",
+      "year": 2016,
+      "value": 35881,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Phi",
+      "year": 2017,
+      "value": 42761,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Phi",
+      "year": 2018,
+      "value": 47957,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Phi",
+      "year": 2019,
+      "value": 11930,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Phi",
+      "year": 2020,
+      "value": 11456,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Phi",
+      "year": 2022,
+      "value": 30108,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Phi",
+      "year": 2023,
+      "value": 50906,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Phi",
+      "year": 2024,
+      "value": 51225,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Phi",
+      "year": 2025,
+      "value": 310788,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Á",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Á",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Á",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Á",
+      "year": 2011,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Á",
+      "year": 2012,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Á",
+      "year": 2013,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Á",
+      "year": 2014,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Á",
+      "year": 2015,
+      "value": 278965,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Á",
+      "year": 2016,
+      "value": 238580,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Á",
+      "year": 2017,
+      "value": 150007,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Á",
+      "year": 2018,
+      "value": 152512,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Á",
+      "year": 2019,
+      "value": 40374,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Á",
+      "year": 2020,
+      "value": 288864,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Á",
+      "year": 2022,
+      "value": 541517,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Á",
+      "year": 2023,
+      "value": 854025,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Á",
+      "year": 2024,
+      "value": 1146666,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Á",
+      "year": 2025,
+      "value": 3691510,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Âu",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Âu",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Âu",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Âu",
+      "year": 2011,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Âu",
+      "year": 2012,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Âu",
+      "year": 2013,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Âu",
+      "year": 2014,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Âu",
+      "year": 2015,
+      "value": 172403,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Âu",
+      "year": 2016,
+      "value": 189321,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Âu",
+      "year": 2017,
+      "value": 215095,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Âu",
+      "year": 2018,
+      "value": 243582,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Âu",
+      "year": 2019,
+      "value": 80535,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Âu",
+      "year": 2020,
+      "value": 76764,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Âu",
+      "year": 2022,
+      "value": 321413,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Âu",
+      "year": 2023,
+      "value": 454796,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Âu",
+      "year": 2024,
+      "value": 449901,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Âu",
+      "year": 2025,
+      "value": 2203810,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Úc",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Úc",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Úc",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Úc",
+      "year": 2011,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Úc",
+      "year": 2012,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Úc",
+      "year": 2013,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Úc",
+      "year": 2014,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Úc",
+      "year": 2015,
+      "value": 5026,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Úc",
+      "year": 2016,
+      "value": 1353,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Úc",
+      "year": 2017,
+      "value": 1031,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Úc",
+      "year": 2018,
+      "value": 1771,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Úc",
+      "year": 2019,
+      "value": 484,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Úc",
+      "year": 2020,
+      "value": 511,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Úc",
+      "year": 2022,
+      "value": 969,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Úc",
+      "year": 2023,
+      "value": 1354,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Úc",
+      "year": 2024,
+      "value": 1605,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Các thị trường khác thuộc châu Úc",
+      "year": 2025,
+      "value": 14104,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hoa Kỳ",
+      "year": 2008,
+      "value": 386934,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hoa Kỳ",
+      "year": 2009,
+      "value": 429318,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hoa Kỳ",
+      "year": 2010,
+      "value": 438486,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hoa Kỳ",
+      "year": 2011,
+      "value": 453213,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hoa Kỳ",
+      "year": 2012,
+      "value": 432228,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hoa Kỳ",
+      "year": 2013,
+      "value": 445945,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hoa Kỳ",
+      "year": 2014,
+      "value": 492847,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hoa Kỳ",
+      "year": 2015,
+      "value": 552644,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hoa Kỳ",
+      "year": 2016,
+      "value": 614117,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hoa Kỳ",
+      "year": 2017,
+      "value": 687226,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hoa Kỳ",
+      "year": 2018,
+      "value": 746171,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hoa Kỳ",
+      "year": 2019,
+      "value": 172706,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hoa Kỳ",
+      "year": 2020,
+      "value": 318171,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hoa Kỳ",
+      "year": 2022,
+      "value": 717073,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hoa Kỳ",
+      "year": 2023,
+      "value": 779795,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hoa Kỳ",
+      "year": 2024,
+      "value": 765703,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hoa Kỳ",
+      "year": 2025,
+      "value": 8585272,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hà Lan",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hà Lan",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hà Lan",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hà Lan",
+      "year": 2011,
+      "value": 3803,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hà Lan",
+      "year": 2012,
+      "value": 47413,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hà Lan",
+      "year": 2013,
+      "value": 49837,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hà Lan",
+      "year": 2014,
+      "value": 48862,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hà Lan",
+      "year": 2015,
+      "value": 64712,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hà Lan",
+      "year": 2016,
+      "value": 72277,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hà Lan",
+      "year": 2017,
+      "value": 77300,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hà Lan",
+      "year": 2018,
+      "value": 81092,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hà Lan",
+      "year": 2019,
+      "value": 18265,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hà Lan",
+      "year": 2020,
+      "value": 27488,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hà Lan",
+      "year": 2022,
+      "value": 68057,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hà Lan",
+      "year": 2023,
+      "value": 78043,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hà Lan",
+      "year": 2024,
+      "value": 84164,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hà Lan",
+      "year": 2025,
+      "value": 731251,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hàn Quốc",
+      "year": 2008,
+      "value": 371171,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hàn Quốc",
+      "year": 2009,
+      "value": 494929,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hàn Quốc",
+      "year": 2010,
+      "value": 535685,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hàn Quốc",
+      "year": 2011,
+      "value": 703401,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hàn Quốc",
+      "year": 2012,
+      "value": 748727,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hàn Quốc",
+      "year": 2013,
+      "value": 849384,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hàn Quốc",
+      "year": 2014,
+      "value": 1152349,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hàn Quốc",
+      "year": 2015,
+      "value": 1543883,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hàn Quốc",
+      "year": 2016,
+      "value": 2415245,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hàn Quốc",
+      "year": 2017,
+      "value": 3485406,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hàn Quốc",
+      "year": 2018,
+      "value": 4290802,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hàn Quốc",
+      "year": 2019,
+      "value": 819089,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hàn Quốc",
+      "year": 2020,
+      "value": 965366,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hàn Quốc",
+      "year": 2022,
+      "value": 3595062,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hàn Quốc",
+      "year": 2023,
+      "value": 4568941,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hàn Quốc",
+      "year": 2024,
+      "value": 3942679,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hàn Quốc",
+      "year": 2025,
+      "value": 30637352,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hồng Kông",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hồng Kông",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hồng Kông",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hồng Kông",
+      "year": 2011,
+      "value": 700,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hồng Kông",
+      "year": 2012,
+      "value": 10232,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hồng Kông",
+      "year": 2013,
+      "value": 14871,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hồng Kông",
+      "year": 2014,
+      "value": 18735,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hồng Kông",
+      "year": 2015,
+      "value": 34613,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hồng Kông",
+      "year": 2016,
+      "value": 47721,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hồng Kông",
+      "year": 2017,
+      "value": 62208,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hồng Kông",
+      "year": 2018,
+      "value": 51618,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hồng Kông",
+      "year": 2019,
+      "value": 3780,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hồng Kông",
+      "year": 2020,
+      "value": 74,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hồng Kông",
+      "year": 2022,
+      "value": 112,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hồng Kông",
+      "year": 2023,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hồng Kông",
+      "year": 2024,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Hồng Kông",
+      "year": 2025,
+      "value": 246073,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Indonesia",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Indonesia",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Indonesia",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Indonesia",
+      "year": 2011,
+      "value": 5443,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Indonesia",
+      "year": 2012,
+      "value": 70390,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Indonesia",
+      "year": 2013,
+      "value": 68974,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Indonesia",
+      "year": 2014,
+      "value": 65660,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Indonesia",
+      "year": 2015,
+      "value": 69653,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Indonesia",
+      "year": 2016,
+      "value": 81065,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Indonesia",
+      "year": 2017,
+      "value": 87941,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Indonesia",
+      "year": 2018,
+      "value": 106688,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Indonesia",
+      "year": 2019,
+      "value": 21446,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Indonesia",
+      "year": 2020,
+      "value": 36084,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Indonesia",
+      "year": 2022,
+      "value": 105380,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Indonesia",
+      "year": 2023,
+      "value": 184093,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Indonesia",
+      "year": 2024,
+      "value": 189171,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Indonesia",
+      "year": 2025,
+      "value": 1098828,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Lào",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Lào",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Lào",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Lào",
+      "year": 2011,
+      "value": 13554,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Lào",
+      "year": 2012,
+      "value": 122823,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Lào",
+      "year": 2013,
+      "value": 136658,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Lào",
+      "year": 2014,
+      "value": 116349,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Lào",
+      "year": 2015,
+      "value": 137004,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Lào",
+      "year": 2016,
+      "value": 141588,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Lào",
+      "year": 2017,
+      "value": 120009,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Lào",
+      "year": 2018,
+      "value": 98492,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Lào",
+      "year": 2019,
+      "value": 36810,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Lào",
+      "year": 2020,
+      "value": 77485,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Lào",
+      "year": 2022,
+      "value": 120522,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Lào",
+      "year": 2023,
+      "value": 148655,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Lào",
+      "year": 2024,
+      "value": 168464,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Lào",
+      "year": 2025,
+      "value": 1446926,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Malaysia",
+      "year": 2008,
+      "value": 168163,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Malaysia",
+      "year": 2009,
+      "value": 210474,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Malaysia",
+      "year": 2010,
+      "value": 231352,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Malaysia",
+      "year": 2011,
+      "value": 298671,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Malaysia",
+      "year": 2012,
+      "value": 339510,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Malaysia",
+      "year": 2013,
+      "value": 333859,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Malaysia",
+      "year": 2014,
+      "value": 341125,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Malaysia",
+      "year": 2015,
+      "value": 407574,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Malaysia",
+      "year": 2016,
+      "value": 480456,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Malaysia",
+      "year": 2017,
+      "value": 540119,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Malaysia",
+      "year": 2018,
+      "value": 606206,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Malaysia",
+      "year": 2019,
+      "value": 116221,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Malaysia",
+      "year": 2020,
+      "value": 170870,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Malaysia",
+      "year": 2022,
+      "value": 470105,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Malaysia",
+      "year": 2023,
+      "value": 495383,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Malaysia",
+      "year": 2024,
+      "value": 510030,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Malaysia",
+      "year": 2025,
+      "value": 5794044,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Na Uy",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Na Uy",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Na Uy",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Na Uy",
+      "year": 2011,
+      "value": 1734,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Na Uy",
+      "year": 2012,
+      "value": 21157,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Na Uy",
+      "year": 2013,
+      "value": 23165,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Na Uy",
+      "year": 2014,
+      "value": 21130,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Na Uy",
+      "year": 2015,
+      "value": 23110,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Na Uy",
+      "year": 2016,
+      "value": 24293,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Na Uy",
+      "year": 2017,
+      "value": 26134,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Na Uy",
+      "year": 2018,
+      "value": 28037,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Na Uy",
+      "year": 2019,
+      "value": 8958,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Na Uy",
+      "year": 2020,
+      "value": 8758,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Na Uy",
+      "year": 2022,
+      "value": 22717,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Na Uy",
+      "year": 2023,
+      "value": 27936,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Na Uy",
+      "year": 2024,
+      "value": 29358,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Na Uy",
+      "year": 2025,
+      "value": 270825,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "New Zealand",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "New Zealand",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "New Zealand",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "New Zealand",
+      "year": 2011,
+      "value": 2337,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "New Zealand",
+      "year": 2012,
+      "value": 30957,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "New Zealand",
+      "year": 2013,
+      "value": 33385,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "New Zealand",
+      "year": 2014,
+      "value": 34731,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "New Zealand",
+      "year": 2015,
+      "value": 42588,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "New Zealand",
+      "year": 2016,
+      "value": 49115,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "New Zealand",
+      "year": 2017,
+      "value": 49854,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "New Zealand",
+      "year": 2018,
+      "value": 47088,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "New Zealand",
+      "year": 2019,
+      "value": 9470,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "New Zealand",
+      "year": 2020,
+      "value": 11398,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "New Zealand",
+      "year": 2022,
+      "value": 33730,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "New Zealand",
+      "year": 2023,
+      "value": 47963,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "New Zealand",
+      "year": 2024,
+      "value": 52356,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "New Zealand",
+      "year": 2025,
+      "value": 450906,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nga",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nga",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nga",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nga",
+      "year": 2011,
+      "value": 81618,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nga",
+      "year": 2012,
+      "value": 298126,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nga",
+      "year": 2013,
+      "value": 365163,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nga",
+      "year": 2014,
+      "value": 339270,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nga",
+      "year": 2015,
+      "value": 433987,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nga",
+      "year": 2016,
+      "value": 574164,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nga",
+      "year": 2017,
+      "value": 606637,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nga",
+      "year": 2018,
+      "value": 646524,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nga",
+      "year": 2019,
+      "value": 244966,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nga",
+      "year": 2020,
+      "value": 39921,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nga",
+      "year": 2022,
+      "value": 125610,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nga",
+      "year": 2023,
+      "value": 232300,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nga",
+      "year": 2024,
+      "value": 592840,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nga",
+      "year": 2025,
+      "value": 4590927,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nhật Bản",
+      "year": 2008,
+      "value": 361529,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nhật Bản",
+      "year": 2009,
+      "value": 441601,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nhật Bản",
+      "year": 2010,
+      "value": 439631,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nhật Bản",
+      "year": 2011,
+      "value": 579517,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nhật Bản",
+      "year": 2012,
+      "value": 604050,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nhật Bản",
+      "year": 2013,
+      "value": 648612,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nhật Bản",
+      "year": 2014,
+      "value": 677477,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nhật Bản",
+      "year": 2015,
+      "value": 740592,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nhật Bản",
+      "year": 2016,
+      "value": 798119,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nhật Bản",
+      "year": 2017,
+      "value": 826674,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nhật Bản",
+      "year": 2018,
+      "value": 951962,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nhật Bản",
+      "year": 2019,
+      "value": 200346,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nhật Bản",
+      "year": 2020,
+      "value": 174720,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nhật Bản",
+      "year": 2022,
+      "value": 589522,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nhật Bản",
+      "year": 2023,
+      "value": 711464,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nhật Bản",
+      "year": 2024,
+      "value": 754074,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Nhật Bản",
+      "year": 2025,
+      "value": 9662212,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Philippines",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Philippines",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Philippines",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Philippines",
+      "year": 2011,
+      "value": 7790,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Philippines",
+      "year": 2012,
+      "value": 100501,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Philippines",
+      "year": 2013,
+      "value": 104988,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Philippines",
+      "year": 2014,
+      "value": 101451,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Philippines",
+      "year": 2015,
+      "value": 110967,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Philippines",
+      "year": 2016,
+      "value": 133543,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Philippines",
+      "year": 2017,
+      "value": 151641,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Philippines",
+      "year": 2018,
+      "value": 179190,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Philippines",
+      "year": 2019,
+      "value": 36969,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Philippines",
+      "year": 2020,
+      "value": 49266,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Philippines",
+      "year": 2022,
+      "value": 153168,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Philippines",
+      "year": 2023,
+      "value": 265947,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Philippines",
+      "year": 2024,
+      "value": 430845,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Philippines",
+      "year": 2025,
+      "value": 1837909,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Pháp",
+      "year": 2008,
+      "value": 179917,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Pháp",
+      "year": 2009,
+      "value": 198478,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Pháp",
+      "year": 2010,
+      "value": 205138,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Pháp",
+      "year": 2011,
+      "value": 223255,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Pháp",
+      "year": 2012,
+      "value": 209946,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Pháp",
+      "year": 2013,
+      "value": 214569,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Pháp",
+      "year": 2014,
+      "value": 211780,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Pháp",
+      "year": 2015,
+      "value": 240808,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Pháp",
+      "year": 2016,
+      "value": 255369,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Pháp",
+      "year": 2017,
+      "value": 279659,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Pháp",
+      "year": 2018,
+      "value": 287655,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Pháp",
+      "year": 2019,
+      "value": 74480,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Pháp",
+      "year": 2020,
+      "value": 81575,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Pháp",
+      "year": 2022,
+      "value": 215508,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Pháp",
+      "year": 2023,
+      "value": 278943,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Pháp",
+      "year": 2024,
+      "value": 309156,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Pháp",
+      "year": 2025,
+      "value": 3537398,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Phần Lan",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Phần Lan",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Phần Lan",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Phần Lan",
+      "year": 2011,
+      "value": 1592,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Phần Lan",
+      "year": 2012,
+      "value": 14669,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Phần Lan",
+      "year": 2013,
+      "value": 13867,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Phần Lan",
+      "year": 2014,
+      "value": 16283,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Phần Lan",
+      "year": 2015,
+      "value": 15953,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Phần Lan",
+      "year": 2016,
+      "value": 18236,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Phần Lan",
+      "year": 2017,
+      "value": 22785,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Phần Lan",
+      "year": 2018,
+      "value": 21480,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Phần Lan",
+      "year": 2019,
+      "value": 9994,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Phần Lan",
+      "year": 2020,
+      "value": 3946,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Phần Lan",
+      "year": 2022,
+      "value": 8618,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Phần Lan",
+      "year": 2023,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Phần Lan",
+      "year": 2024,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Phần Lan",
+      "year": 2025,
+      "value": 148524,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Singapore",
+      "year": 2008,
+      "value": 18295,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Singapore",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Singapore",
+      "year": 2010,
+      "value": 34163,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Singapore",
+      "year": 2011,
+      "value": 22513,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Singapore",
+      "year": 2012,
+      "value": 179759,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Singapore",
+      "year": 2013,
+      "value": 202870,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Singapore",
+      "year": 2014,
+      "value": 237496,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Singapore",
+      "year": 2015,
+      "value": 257041,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Singapore",
+      "year": 2016,
+      "value": 277658,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Singapore",
+      "year": 2017,
+      "value": 286246,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Singapore",
+      "year": 2018,
+      "value": 308969,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Singapore",
+      "year": 2019,
+      "value": 51726,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Singapore",
+      "year": 2020,
+      "value": 178861,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Singapore",
+      "year": 2022,
+      "value": 328195,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Singapore",
+      "year": 2023,
+      "value": 347495,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Singapore",
+      "year": 2024,
+      "value": 340365,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Singapore",
+      "year": 2025,
+      "value": 3139259,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thái Lan",
+      "year": 2008,
+      "value": 154301,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thái Lan",
+      "year": 2009,
+      "value": 216162,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thái Lan",
+      "year": 2010,
+      "value": 134383,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thái Lan",
+      "year": 2011,
+      "value": 156880,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thái Lan",
+      "year": 2012,
+      "value": 268968,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thái Lan",
+      "year": 2013,
+      "value": 253503,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thái Lan",
+      "year": 2014,
+      "value": 218025,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thái Lan",
+      "year": 2015,
+      "value": 266984,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thái Lan",
+      "year": 2016,
+      "value": 301587,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thái Lan",
+      "year": 2017,
+      "value": 349310,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thái Lan",
+      "year": 2018,
+      "value": 509802,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thái Lan",
+      "year": 2019,
+      "value": 125725,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thái Lan",
+      "year": 2020,
+      "value": 202246,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thái Lan",
+      "year": 2022,
+      "value": 489174,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thái Lan",
+      "year": 2023,
+      "value": 418054,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thái Lan",
+      "year": 2024,
+      "value": 415008,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thái Lan",
+      "year": 2025,
+      "value": 4549862,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy sĩ",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy sĩ",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy sĩ",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy sĩ",
+      "year": 2011,
+      "value": 2342,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy sĩ",
+      "year": 2012,
+      "value": 28423,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy sĩ",
+      "year": 2013,
+      "value": 32315,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy sĩ",
+      "year": 2014,
+      "value": 25765,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy sĩ",
+      "year": 2015,
+      "value": 31475,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy sĩ",
+      "year": 2016,
+      "value": 33123,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy sĩ",
+      "year": 2017,
+      "value": 34541,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy sĩ",
+      "year": 2018,
+      "value": 36577,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy sĩ",
+      "year": 2019,
+      "value": 10845,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy sĩ",
+      "year": 2020,
+      "value": 11350,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy sĩ",
+      "year": 2022,
+      "value": 27929,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy sĩ",
+      "year": 2023,
+      "value": 33584,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy sĩ",
+      "year": 2024,
+      "value": 35368,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy sĩ",
+      "year": 2025,
+      "value": 348333,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy Điển",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy Điển",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy Điển",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy Điển",
+      "year": 2011,
+      "value": 3619,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy Điển",
+      "year": 2012,
+      "value": 31493,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy Điển",
+      "year": 2013,
+      "value": 30223,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy Điển",
+      "year": 2014,
+      "value": 34131,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy Điển",
+      "year": 2015,
+      "value": 37679,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy Điển",
+      "year": 2016,
+      "value": 44045,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy Điển",
+      "year": 2017,
+      "value": 49723,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy Điển",
+      "year": 2018,
+      "value": 50704,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy Điển",
+      "year": 2019,
+      "value": 21857,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy Điển",
+      "year": 2020,
+      "value": 9597,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy Điển",
+      "year": 2022,
+      "value": 25755,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy Điển",
+      "year": 2023,
+      "value": 34267,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy Điển",
+      "year": 2024,
+      "value": 33105,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Thụy Điển",
+      "year": 2025,
+      "value": 410148,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Trung Quốc",
+      "year": 2008,
+      "value": 551743,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Trung Quốc",
+      "year": 2009,
+      "value": 896621,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Trung Quốc",
+      "year": 2010,
+      "value": 1394812,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Trung Quốc",
+      "year": 2011,
+      "value": 1396457,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Trung Quốc",
+      "year": 2012,
+      "value": 1917794,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Trung Quốc",
+      "year": 2013,
+      "value": 1949433,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Trung Quốc",
+      "year": 2014,
+      "value": 1771654,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Trung Quốc",
+      "year": 2015,
+      "value": 2696848,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Trung Quốc",
+      "year": 2016,
+      "value": 4008253,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Trung Quốc",
+      "year": 2017,
+      "value": 4966468,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Trung Quốc",
+      "year": 2018,
+      "value": 5806425,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Trung Quốc",
+      "year": 2019,
+      "value": 871819,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Trung Quốc",
+      "year": 2020,
+      "value": 124896,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Trung Quốc",
+      "year": 2022,
+      "value": 1743204,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Trung Quốc",
+      "year": 2023,
+      "value": 3738126,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Trung Quốc",
+      "year": 2024,
+      "value": 4794445,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Trung Quốc",
+      "year": 2025,
+      "value": 38869062,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Tây Ban Nha",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Tây Ban Nha",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Tây Ban Nha",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Tây Ban Nha",
+      "year": 2011,
+      "value": 2125,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Tây Ban Nha",
+      "year": 2012,
+      "value": 33183,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Tây Ban Nha",
+      "year": 2013,
+      "value": 40824,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Tây Ban Nha",
+      "year": 2014,
+      "value": 45483,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Tây Ban Nha",
+      "year": 2015,
+      "value": 57957,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Tây Ban Nha",
+      "year": 2016,
+      "value": 69528,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Tây Ban Nha",
+      "year": 2017,
+      "value": 77071,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Tây Ban Nha",
+      "year": 2018,
+      "value": 83597,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Tây Ban Nha",
+      "year": 2019,
+      "value": 11783,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Tây Ban Nha",
+      "year": 2020,
+      "value": 27461,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Tây Ban Nha",
+      "year": 2022,
+      "value": 76087,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Tây Ban Nha",
+      "year": 2023,
+      "value": 91370,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Tây Ban Nha",
+      "year": 2024,
+      "value": 89654,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Tây Ban Nha",
+      "year": 2025,
+      "value": 713284,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Vương quốc Anh",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Vương quốc Anh",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Vương quốc Anh",
+      "year": 2010,
+      "value": 26247,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Vương quốc Anh",
+      "year": 2011,
+      "value": 31548,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Vương quốc Anh",
+      "year": 2012,
+      "value": 184663,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Vương quốc Anh",
+      "year": 2013,
+      "value": 203719,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Vương quốc Anh",
+      "year": 2014,
+      "value": 214866,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Vương quốc Anh",
+      "year": 2015,
+      "value": 254841,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Vương quốc Anh",
+      "year": 2016,
+      "value": 283537,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Vương quốc Anh",
+      "year": 2017,
+      "value": 298114,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Vương quốc Anh",
+      "year": 2018,
+      "value": 315084,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Vương quốc Anh",
+      "year": 2019,
+      "value": 81433,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Vương quốc Anh",
+      "year": 2020,
+      "value": 93794,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Vương quốc Anh",
+      "year": 2022,
+      "value": 253522,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Vương quốc Anh",
+      "year": 2023,
+      "value": 306194,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Vương quốc Anh",
+      "year": 2024,
+      "value": 337550,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Vương quốc Anh",
+      "year": 2025,
+      "value": 2909180,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Úc",
+      "year": 2008,
+      "value": 208266,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Úc",
+      "year": 2009,
+      "value": 275618,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Úc",
+      "year": 2010,
+      "value": 279987,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Úc",
+      "year": 2011,
+      "value": 285560,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Úc",
+      "year": 2012,
+      "value": 291508,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Úc",
+      "year": 2013,
+      "value": 322424,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Úc",
+      "year": 2014,
+      "value": 323792,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Úc",
+      "year": 2015,
+      "value": 320678,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Úc",
+      "year": 2016,
+      "value": 370438,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Úc",
+      "year": 2017,
+      "value": 386934,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Úc",
+      "year": 2018,
+      "value": 383511,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Úc",
+      "year": 2019,
+      "value": 92227,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Úc",
+      "year": 2020,
+      "value": 144736,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Úc",
+      "year": 2022,
+      "value": 390087,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Úc",
+      "year": 2023,
+      "value": 490880,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Úc",
+      "year": 2024,
+      "value": 495880,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Úc",
+      "year": 2025,
+      "value": 5157649,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ý",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ý",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ý",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ý",
+      "year": 2011,
+      "value": 2361,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ý",
+      "year": 2012,
+      "value": 32143,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ý",
+      "year": 2013,
+      "value": 36509,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ý",
+      "year": 2014,
+      "value": 43202,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ý",
+      "year": 2015,
+      "value": 51265,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ý",
+      "year": 2016,
+      "value": 58041,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ý",
+      "year": 2017,
+      "value": 65562,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ý",
+      "year": 2018,
+      "value": 70798,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ý",
+      "year": 2019,
+      "value": 17774,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ý",
+      "year": 2020,
+      "value": 20308,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ý",
+      "year": 2022,
+      "value": 57054,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ý",
+      "year": 2023,
+      "value": 88912,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ý",
+      "year": 2024,
+      "value": 97868,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ý",
+      "year": 2025,
+      "value": 645605,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đan mạch",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đan mạch",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đan mạch",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đan mạch",
+      "year": 2011,
+      "value": 1826,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đan mạch",
+      "year": 2012,
+      "value": 25649,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đan mạch",
+      "year": 2013,
+      "value": 27115,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đan mạch",
+      "year": 2014,
+      "value": 27285,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đan mạch",
+      "year": 2015,
+      "value": 30996,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đan mạch",
+      "year": 2016,
+      "value": 34720,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đan mạch",
+      "year": 2017,
+      "value": 39926,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đan mạch",
+      "year": 2018,
+      "value": 42043,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đan mạch",
+      "year": 2019,
+      "value": 14444,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đan mạch",
+      "year": 2020,
+      "value": 12427,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đan mạch",
+      "year": 2022,
+      "value": 30231,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đan mạch",
+      "year": 2023,
+      "value": 36920,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đan mạch",
+      "year": 2024,
+      "value": 37501,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đan mạch",
+      "year": 2025,
+      "value": 366318,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đài Loan",
+      "year": 2008,
+      "value": 272921,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đài Loan",
+      "year": 2009,
+      "value": 333387,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đài Loan",
+      "year": 2010,
+      "value": 348035,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đài Loan",
+      "year": 2011,
+      "value": 413584,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đài Loan",
+      "year": 2012,
+      "value": 398990,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đài Loan",
+      "year": 2013,
+      "value": 391040,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đài Loan",
+      "year": 2014,
+      "value": 425060,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đài Loan",
+      "year": 2015,
+      "value": 507301,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đài Loan",
+      "year": 2016,
+      "value": 616232,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đài Loan",
+      "year": 2017,
+      "value": 714112,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đài Loan",
+      "year": 2018,
+      "value": 926744,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đài Loan",
+      "year": 2019,
+      "value": 192216,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đài Loan",
+      "year": 2020,
+      "value": 126211,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đài Loan",
+      "year": 2022,
+      "value": 851024,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đài Loan",
+      "year": 2023,
+      "value": 1288861,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đài Loan",
+      "year": 2024,
+      "value": 1133414,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đài Loan",
+      "year": 2025,
+      "value": 9050529,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đức",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đức",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đức",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đức",
+      "year": 2011,
+      "value": 9155,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đức",
+      "year": 2012,
+      "value": 97673,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đức",
+      "year": 2013,
+      "value": 142843,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đức",
+      "year": 2014,
+      "value": 134784,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đức",
+      "year": 2015,
+      "value": 176015,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đức",
+      "year": 2016,
+      "value": 199872,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đức",
+      "year": 2017,
+      "value": 213986,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đức",
+      "year": 2018,
+      "value": 226792,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đức",
+      "year": 2019,
+      "value": 61465,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đức",
+      "year": 2020,
+      "value": 83598,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đức",
+      "year": 2022,
+      "value": 200425,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đức",
+      "year": 2023,
+      "value": 249517,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đức",
+      "year": 2024,
+      "value": 263465,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Đức",
+      "year": 2025,
+      "value": 2080510,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ấn Độ",
+      "year": 2008,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ấn Độ",
+      "year": 2009,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ấn Độ",
+      "year": 2010,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ấn Độ",
+      "year": 2011,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ấn Độ",
+      "year": 2012,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ấn Độ",
+      "year": 2013,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ấn Độ",
+      "year": 2014,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ấn Độ",
+      "year": 2015,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ấn Độ",
+      "year": 2016,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ấn Độ",
+      "year": 2017,
+      "value": 132371,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ấn Độ",
+      "year": 2018,
+      "value": 168998,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ấn Độ",
+      "year": 2019,
+      "value": 37416,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ấn Độ",
+      "year": 2020,
+      "value": 0,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ấn Độ",
+      "year": 2022,
+      "value": 392141,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ấn Độ",
+      "year": 2023,
+      "value": 501427,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ấn Độ",
+      "year": 2024,
+      "value": 655846,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Ấn Độ",
+      "year": 2025,
+      "value": 1888199,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2008,
+      "value": 3776710,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2009,
+      "value": 5034712,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2010,
+      "value": 5910465,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2011,
+      "value": 6590330,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2012,
+      "value": 7581564,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2013,
+      "value": 7887403,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2014,
+      "value": 7917072,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2015,
+      "value": 10012735,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2016,
+      "value": 12922151,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2017,
+      "value": 15497791,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2018,
+      "value": 18008591,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2019,
+      "value": 3686779,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2020,
+      "value": 3661222,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2022,
+      "value": 12599145,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2023,
+      "value": 17583900,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2024,
+      "value": 19146672,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2025,
+      "value": 159900445,
+      "category": "by_market"
+    },
+    {
+      "subcategory": "Khách quốc tế đến",
+      "year": 2008,
+      "value": 3776708,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Khách quốc tế đến",
+      "year": 2009,
+      "value": 5034712,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Khách quốc tế đến",
+      "year": 2010,
+      "value": 5921925,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Khách quốc tế đến",
+      "year": 2011,
+      "value": 6744158,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Khách quốc tế đến",
+      "year": 2012,
+      "value": 7581564,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Khách quốc tế đến",
+      "year": 2013,
+      "value": 7887013,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Khách quốc tế đến",
+      "year": 2014,
+      "value": 7898852,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Khách quốc tế đến",
+      "year": 2015,
+      "value": 10012735,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Khách quốc tế đến",
+      "year": 2016,
+      "value": 12922151,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Khách quốc tế đến",
+      "year": 2017,
+      "value": 15497791,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Khách quốc tế đến",
+      "year": 2018,
+      "value": 18008591,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Khách quốc tế đến",
+      "year": 2019,
+      "value": 3686779,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Khách quốc tế đến",
+      "year": 2020,
+      "value": 3500,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Khách quốc tế đến",
+      "year": 2021,
+      "value": 3661222,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Khách quốc tế đến",
+      "year": 2022,
+      "value": 12602434,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Khách quốc tế đến",
+      "year": 2023,
+      "value": 17583901,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Khách quốc tế đến",
+      "year": 2024,
+      "value": 19146672,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Khách quốc tế đến",
+      "year": 2025,
+      "value": 162200943,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2008,
+      "value": 3776708,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2009,
+      "value": 5034712,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2010,
+      "value": 5921925,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2011,
+      "value": 6744158,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2012,
+      "value": 7581564,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2013,
+      "value": 7887013,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2014,
+      "value": 7898852,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2015,
+      "value": 10012735,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2016,
+      "value": 12922151,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2017,
+      "value": 15497791,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2018,
+      "value": 18008591,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2019,
+      "value": 3686779,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2020,
+      "value": 3500,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2021,
+      "value": 3661222,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2022,
+      "value": 12602434,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2023,
+      "value": 17583901,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2024,
+      "value": 19146672,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2025,
+      "value": 162200943,
+      "category": "by_visitor_type"
+    },
+    {
+      "subcategory": "Khách có nghỉ qua đêm tại cơ sở lưu trú",
+      "year": 2014,
+      "value": 7554412,
+      "category": "by_visitor_group"
+    },
+    {
+      "subcategory": "Khách có nghỉ qua đêm tại cơ sở lưu trú",
+      "year": 2015,
+      "value": 9310842,
+      "category": "by_visitor_group"
+    },
+    {
+      "subcategory": "Khách có nghỉ qua đêm tại cơ sở lưu trú",
+      "year": 2016,
+      "value": 11960743,
+      "category": "by_visitor_group"
+    },
+    {
+      "subcategory": "Khách có nghỉ qua đêm tại cơ sở lưu trú",
+      "year": 2017,
+      "value": 36314468,
+      "category": "by_visitor_group"
+    },
+    {
+      "subcategory": "Khách tham quan trong ngày",
+      "year": 2014,
+      "value": 389239,
+      "category": "by_visitor_group"
+    },
+    {
+      "subcategory": "Khách tham quan trong ngày",
+      "year": 2015,
+      "value": 701893,
+      "category": "by_visitor_group"
+    },
+    {
+      "subcategory": "Khách tham quan trong ngày",
+      "year": 2016,
+      "value": 961408,
+      "category": "by_visitor_group"
+    },
+    {
+      "subcategory": "Khách tham quan trong ngày",
+      "year": 2017,
+      "value": 2438381,
+      "category": "by_visitor_group"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2014,
+      "value": 7943651,
+      "category": "by_visitor_group"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2015,
+      "value": 10012735,
+      "category": "by_visitor_group"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2016,
+      "value": 12922151,
+      "category": "by_visitor_group"
+    },
+    {
+      "subcategory": "Totals",
+      "year": 2017,
+      "value": 38752849,
+      "category": "by_visitor_group"
+    }
+  ]
+}
