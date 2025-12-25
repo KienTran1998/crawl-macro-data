@@ -40,13 +40,13 @@ Output: `data/china_macro_data.json`
   - `> 50`: Mở rộng.
   - `< 50`: Thu hẹp.
 
-### 3. Credit Growth Proxy (Đầu tư Tài sản Cố định)
-- **Nguồn**: NBS Press Release (Investment in Fixed Assets).
-- **Chỉ số**: `investment_fixed_assets`.
+### 3. Credit Growth Proxy (Investment)
+- **Nguồn Lịch sử (1990-2024)**: World Bank (Indicator: `NE.GDI.TOTL.KD.ZG` - Gross Capital Formation Growth).
+- **Nguồn 2025**: NBS Press Release (Fixed Asset Investment YTD).
 - **Tại sao lại dùng chỉ số này làm Credit Growth?**
   - Số liệu "Credit/Loans" chính thức (Total Social Financing) do PBOC phát hành riêng biệt.
-  - Trong báo cáo của NBS, **Fixed Asset Investment (FAI)** là chỉ số phản ánh tốt nhất dòng vốn tín dụng chảy vào nền kinh tế thực (Cơ sở hạ tầng, Bất động sản, Máy móc).
-  - Đây là proxy tiêu chuẩn để đánh giá hiệu quả của chính sách tiền tệ/tín dụng tại Trung Quốc.
+  - **Gross Capital Formation** và **Fixed Asset Investment (FAI)** là các chỉ số độ trễ thấp, phản ánh trực tiếp dòng vốn tín dụng chảy vào nền kinh tế thực (đầu tư dự án, mua sắm tài sản).
+  - Đây là proxy tiêu chuẩn để đánh giá hiệu quả của chính sách nới lỏng tín dụng.
 
 ### Format JSON
 

@@ -1,310 +1,14 @@
 {
   "metadata": {
-    "description": "China Macro Economic Indicators (Historical + 2025)",
+    "description": "China Macro Economic Indicators",
     "sources": [
-      "World Bank",
-      "NBS China"
+      "World Bank (1990-2024)",
+      "NBS China (2025)"
     ],
-    "total_records": 39,
-    "last_updated": "2025-12-26 00:08:49"
+    "total_records": 68,
+    "last_updated": "2025-12-26 00:17:32"
   },
   "data": [
-    {
-      "indicator": "gdp_growth",
-      "date": "2024-12-31",
-      "value": 4.98,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2023-12-31",
-      "value": 5.41,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2022-12-31",
-      "value": 3.13,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2021-12-31",
-      "value": 8.57,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2020-12-31",
-      "value": 2.34,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2019-12-31",
-      "value": 6.07,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2018-12-31",
-      "value": 6.76,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2017-12-31",
-      "value": 6.89,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2016-12-31",
-      "value": 6.78,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2015-12-31",
-      "value": 6.98,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2014-12-31",
-      "value": 7.46,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2013-12-31",
-      "value": 7.78,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2012-12-31",
-      "value": 7.86,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2011-12-31",
-      "value": 9.46,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2010-12-31",
-      "value": 10.6,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2009-12-31",
-      "value": 9.4,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2008-12-31",
-      "value": 9.67,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2007-12-31",
-      "value": 14.15,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2006-12-31",
-      "value": 12.67,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2005-12-31",
-      "value": 11.46,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2004-12-31",
-      "value": 10.13,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2003-12-31",
-      "value": 10.12,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2002-12-31",
-      "value": 9.24,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2001-12-31",
-      "value": 8.31,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "2000-12-31",
-      "value": 8.59,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "1999-12-31",
-      "value": 7.74,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "1998-12-31",
-      "value": 7.92,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "1997-12-31",
-      "value": 9.29,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "1996-12-31",
-      "value": 9.98,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "1995-12-31",
-      "value": 11.03,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "1994-12-31",
-      "value": 13.07,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "1993-12-31",
-      "value": 13.93,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "1992-12-31",
-      "value": 14.3,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "1991-12-31",
-      "value": 9.36,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth",
-      "date": "1990-12-31",
-      "value": 3.94,
-      "unit": "percent",
-      "source": "World Bank",
-      "note": "Annual GDP Growth"
-    },
-    {
-      "indicator": "gdp_growth_quarterly",
-      "date": "2025-09-30",
-      "value": 4.8,
-      "unit": "percent",
-      "source": "NBS",
-      "note": "Q3 2025 Year-on-Year"
-    },
-    {
-      "indicator": "gdp_growth_ytd",
-      "date": "2025-09-30",
-      "value": 5.2,
-      "unit": "percent",
-      "source": "NBS",
-      "note": "Q1-Q3 2025 Year-on-Year"
-    },
     {
       "indicator": "pmi_manufacturing",
       "date": "2025-11-30",
@@ -314,12 +18,540 @@
       "note": "Manufacturing PMI"
     },
     {
-      "indicator": "investment_fixed_assets",
+      "indicator": "investment_fixed_assets_growth",
       "date": "2025-11-30",
       "value": 3.4,
       "unit": "percent",
       "source": "NBS",
       "note": "Fixed Asset Investment Growth YTD"
+    },
+    {
+      "indicator": "gdp_growth_quarterly",
+      "date": "2025-09-30",
+      "value": 4.8,
+      "unit": "percent",
+      "source": "NBS",
+      "note": "Q3 2025 YoY"
+    },
+    {
+      "indicator": "gdp_growth_ytd",
+      "date": "2025-09-30",
+      "value": 5.2,
+      "unit": "percent",
+      "source": "NBS",
+      "note": "Q1-Q3 2025 YoY"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2024-12-31",
+      "value": 4.98,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2024-12-31",
+      "value": 3.14,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2023-12-31",
+      "value": 5.41,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2023-12-31",
+      "value": 3.44,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2022-12-31",
+      "value": 3.13,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2022-12-31",
+      "value": 2.85,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2021-12-31",
+      "value": 8.57,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2021-12-31",
+      "value": 3.97,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2020-12-31",
+      "value": 2.34,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2020-12-31",
+      "value": 4.2,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2019-12-31",
+      "value": 6.07,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2019-12-31",
+      "value": 4.13,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2018-12-31",
+      "value": 6.76,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2018-12-31",
+      "value": 6.76,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2017-12-31",
+      "value": 6.89,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2017-12-31",
+      "value": 6.29,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2016-12-31",
+      "value": 6.78,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2016-12-31",
+      "value": 6.92,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2015-12-31",
+      "value": 6.98,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2015-12-31",
+      "value": 3.55,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2014-12-31",
+      "value": 7.46,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2014-12-31",
+      "value": 7.5,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2013-12-31",
+      "value": 7.78,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2013-12-31",
+      "value": 9.46,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2012-12-31",
+      "value": 7.86,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2012-12-31",
+      "value": 7.64,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2011-12-31",
+      "value": 9.46,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2011-12-31",
+      "value": 8.74,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2010-12-31",
+      "value": 10.6,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2010-12-31",
+      "value": 15.78,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2009-12-31",
+      "value": 9.4,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2009-12-31",
+      "value": 20.91,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2008-12-31",
+      "value": 9.67,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2008-12-31",
+      "value": 13.88,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2007-12-31",
+      "value": 14.15,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2007-12-31",
+      "value": 17.42,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2006-12-31",
+      "value": 12.67,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2006-12-31",
+      "value": 15.27,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2005-12-31",
+      "value": 11.46,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2005-12-31",
+      "value": 10.62,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2004-12-31",
+      "value": 10.13,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2004-12-31",
+      "value": 19.2,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2003-12-31",
+      "value": 10.12,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2003-12-31",
+      "value": 23.85,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2002-12-31",
+      "value": 9.24,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2002-12-31",
+      "value": 13.06,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2001-12-31",
+      "value": 8.31,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2001-12-31",
+      "value": 20.78,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "2000-12-31",
+      "value": 8.59,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "2000-12-31",
+      "value": 7.3,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "1999-12-31",
+      "value": 7.74,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "1999-12-31",
+      "value": 6.37,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "1998-12-31",
+      "value": 7.92,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "1998-12-31",
+      "value": 8.69,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "1997-12-31",
+      "value": 9.29,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "1997-12-31",
+      "value": 5.22,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "1996-12-31",
+      "value": 9.98,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "investment_growth",
+      "date": "1996-12-31",
+      "value": 13.19,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Gross Capital Formation Growth (annual %) - Credit Proxy"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "1995-12-31",
+      "value": 11.03,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "1994-12-31",
+      "value": 13.07,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "1993-12-31",
+      "value": 13.93,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "1992-12-31",
+      "value": 14.3,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "1991-12-31",
+      "value": 9.36,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
+    },
+    {
+      "indicator": "gdp_growth",
+      "date": "1990-12-31",
+      "value": 3.94,
+      "unit": "percent",
+      "source": "World Bank",
+      "note": "Annual GDP Growth (%)"
     }
   ]
 }
