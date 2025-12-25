@@ -29,18 +29,21 @@ Output: `data/china_macro_data.json`
 ## 📁 Cấu Trúc Dữ Liệu & Nghiệp Vụ
 
 ### 1. GDP Growth (Tăng trưởng GDP)
+- **Tần suất**: Hàng năm (Annual).
 - **Nguồn Lịch sử (1990-2024)**: lấy từ World Bank API (Indicator: `NY.GDP.MKTP.KD.ZG`).
 - **Nguồn 2025**: Scraping trực tiếp từ NBS Press Release (Quý gần nhất).
 - **Ý nghĩa**: Đo lường tốc độ tăng trưởng của nền kinh tế lớn thứ 2 thế giới.
 
 ### 2. PMI (Purchasing Managers' Index)
-- **Nguồn**: NBS Press Release (Latest Month).
+- **Tần suất**: Hàng tháng (Monthly).
+- **Nguồn**: NBS Press Release (Historical & Latest).
 - **Chỉ số**: Manufacturing PMI.
 - **Ý nghĩa**: Chỉ số dẫn dắt (leading indicator) về sức khỏe ngành sản xuất.
   - `> 50`: Mở rộng.
   - `< 50`: Thu hẹp.
 
 ### 3. Credit Growth Proxy (Investment)
+- **Tần suất**: Hàng năm (Annual) cho lịch sử, Hàng tháng (YTD) cho năm hiện tại.
 - **Nguồn Lịch sử (1990-2024)**: World Bank (Indicator: `NE.GDI.TOTL.KD.ZG` - Gross Capital Formation Growth).
 - **Nguồn 2025**: NBS Press Release (Fixed Asset Investment YTD).
 - **Tại sao lại dùng chỉ số này làm Credit Growth?**
